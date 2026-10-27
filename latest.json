@@ -1,13 +1,11 @@
 {
   "trade_date": "2026-10-27",
-  "published_at": "2026-10-27T21:16:29.716825+08:00",
-  "fetched_at": "2026-10-27T20:53:53.038019+08:00",
+  "published_at": "2026-10-27T21:28:08.145212+08:00",
+  "fetched_at": "2026-10-27T21:24:51.954472+08:00",
   "collection_status": "complete",
-  "status": "complete_with_limitations",
-  "research_status": "limited",
-  "missing_data": [
-    "首板后续跟踪存在历史名单或价格缺失，详见followup"
-  ],
+  "status": "complete",
+  "research_status": "available",
+  "missing_data": [],
   "verified": {
     "mainboard_limit_up_count": 36,
     "mainboard_height": 5.0,
@@ -20,24 +18,22 @@
       {
         "name": "上证指数",
         "symbol": "sh000001",
-        "date": "2026-10-27",
+        "date": "2026-10-27T00:00:00.000",
         "open": 3698.44,
         "close": 3648.3,
         "high": 3708.2,
         "low": 3648.3,
-        "volume": 417789532,
-        "amount": 672414398244.3
+        "amount": 417789532.0
       },
       {
         "name": "深证成指",
         "symbol": "sz399001",
-        "date": "2026-10-27",
+        "date": "2026-10-27T00:00:00.000",
         "open": 11591.36,
         "close": 11245.73,
         "high": 11633.3,
         "low": 11245.72,
-        "volume": 521917348,
-        "amount": 788543922869.44
+        "amount": 521917348.0
       },
       {
         "name": "创业板指",
@@ -78,10 +74,17 @@
   },
   "verified_tradable_rate": null,
   "note": "公开行情研究数据；不含私有代码、账户信息或真实策略收益。先核对trade_date和缺失项目。",
+  "followup": {
+    "rows": 86,
+    "prices_available": 86,
+    "missing_archive_dates": [],
+    "missing_price_codes": [],
+    "note": "按交易日追踪首板后第1/2个交易日，不推断成交或策略收益"
+  },
   "last_attempt": {
     "trade_date": "2026-10-27",
-    "fetched_at": "2026-10-27T20:53:53.038019+08:00",
-    "status": "complete_with_limitations",
+    "fetched_at": "2026-10-27T21:24:51.954472+08:00",
+    "status": "complete",
     "collection_status": "complete",
     "collection_failures": []
   }
