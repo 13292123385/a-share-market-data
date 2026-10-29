@@ -1,66 +1,68 @@
 {
-  "trade_date": "2026-10-28",
-  "published_at": "2026-10-28T23:13:02.071476+08:00",
-  "fetched_at": "2026-10-28T23:09:56.728291+08:00",
+  "trade_date": "2026-10-29",
+  "published_at": "2026-10-29T22:12:05.385790+08:00",
+  "fetched_at": "2026-10-29T22:03:53.311564+08:00",
   "collection_status": "complete",
-  "status": "complete",
-  "research_status": "available",
-  "missing_data": [],
+  "status": "complete_with_limitations",
+  "research_status": "limited",
+  "missing_data": [
+    "首板后续跟踪存在历史名单或价格缺失，详见followup"
+  ],
   "verified": {
-    "mainboard_limit_up_count": 58,
-    "mainboard_height": 5.0,
-    "first_board_candidates": 50,
-    "all_day_one_word_excluded": 1,
+    "mainboard_limit_up_count": 38,
+    "mainboard_height": 4.0,
+    "first_board_candidates": 28,
+    "all_day_one_word_excluded": 4,
     "one_word_unknown": 0,
-    "broken_count": 49,
-    "limit_down_count": 5,
+    "broken_count": 23,
+    "limit_down_count": 41,
     "indices": [
       {
         "name": "上证指数",
         "symbol": "sh000001",
-        "date": "2026-10-28T00:00:00.000",
-        "open": 3676.92,
-        "close": 3681.47,
-        "high": 3684.49,
-        "low": 3652.37,
-        "amount": 433622829.0
+        "date": "2026-10-29T00:00:00.000",
+        "open": 3676.77,
+        "close": 3651.43,
+        "high": 3678.46,
+        "low": 3645.26,
+        "amount": 443564144.0
       },
       {
         "name": "深证成指",
         "symbol": "sz399001",
-        "date": "2026-10-28T00:00:00.000",
-        "open": 11359.08,
-        "close": 11473.18,
-        "high": 11529.6,
-        "low": 11292.7,
-        "amount": 538092409.0
+        "date": "2026-10-29T00:00:00.000",
+        "open": 11379.0,
+        "close": 11138.2,
+        "high": 11379.0,
+        "low": 11135.97,
+        "amount": 540479121.0
       },
       {
         "name": "创业板指",
         "symbol": "sz399006",
-        "date": "2026-10-28T00:00:00.000",
-        "open": 2593.15,
-        "close": 2634.76,
-        "high": 2647.63,
-        "low": 2562.9,
-        "amount": 181409982.0
+        "date": "2026-10-29T00:00:00.000",
+        "open": 2596.22,
+        "close": 2517.59,
+        "high": 2597.45,
+        "low": 2516.78,
+        "amount": 169679341.0
       },
       {
         "name": "中证2000",
         "symbol": "csi932000",
-        "date": "2026-10-28T00:00:00.000",
-        "close": 2800.7,
+        "date": "2026-10-29T00:00:00.000",
+        "close": 2709.19,
         "source": "中证指数官网",
         "index_code": "932000"
       }
     ]
   },
   "market_estimates": {
-    "up": 4156,
-    "down": 1239,
-    "flat": 181,
-    "turnover_yuan": 1642102182726.0,
-    "records": 5576,
+    "up": 781,
+    "down": 4728,
+    "flat": 68,
+    "turnover_yuan": 1570713772360.0,
+    "records": 5577,
     "unknown_direction": 0,
     "unknown_amount": 0,
     "source": "新浪",
@@ -68,23 +70,30 @@
   },
   "market_coverage": {
     "status": "code_coverage_matched",
-    "expected_count": 5576,
-    "observed_count": 5576,
+    "expected_count": 5577,
+    "observed_count": 5577,
     "all_market_verified": false
   },
   "verified_tradable_rate": null,
   "note": "公开行情研究数据；不含私有代码、账户信息或真实策略收益。先核对trade_date和缺失项目。",
   "followup": {
-    "rows": 58,
-    "prices_available": 58,
+    "rows": 75,
+    "prices_available": 69,
     "missing_archive_dates": [],
-    "missing_price_codes": [],
+    "missing_price_codes": [
+      "603926",
+      "603992",
+      "605060",
+      "605288",
+      "605366",
+      "605566"
+    ],
     "note": "按交易日追踪首板后第1/2个交易日，不推断成交或策略收益"
   },
   "last_attempt": {
-    "trade_date": "2026-10-28",
-    "fetched_at": "2026-10-28T23:09:56.728291+08:00",
-    "status": "complete",
+    "trade_date": "2026-10-29",
+    "fetched_at": "2026-10-29T22:03:53.311564+08:00",
+    "status": "complete_with_limitations",
     "collection_status": "complete",
     "collection_failures": []
   }
