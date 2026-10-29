@@ -1,13 +1,11 @@
 {
   "trade_date": "2026-10-29",
-  "published_at": "2026-10-29T22:12:05.385790+08:00",
-  "fetched_at": "2026-10-29T22:03:53.311564+08:00",
+  "published_at": "2026-10-29T23:19:56.107563+08:00",
+  "fetched_at": "2026-10-29T23:16:20.725915+08:00",
   "collection_status": "complete",
-  "status": "complete_with_limitations",
-  "research_status": "limited",
-  "missing_data": [
-    "首板后续跟踪存在历史名单或价格缺失，详见followup"
-  ],
+  "status": "complete",
+  "research_status": "available",
+  "missing_data": [],
   "verified": {
     "mainboard_limit_up_count": 38,
     "mainboard_height": 4.0,
@@ -78,22 +76,15 @@
   "note": "公开行情研究数据；不含私有代码、账户信息或真实策略收益。先核对trade_date和缺失项目。",
   "followup": {
     "rows": 75,
-    "prices_available": 69,
+    "prices_available": 75,
     "missing_archive_dates": [],
-    "missing_price_codes": [
-      "603926",
-      "603992",
-      "605060",
-      "605288",
-      "605366",
-      "605566"
-    ],
+    "missing_price_codes": [],
     "note": "按交易日追踪首板后第1/2个交易日，不推断成交或策略收益"
   },
   "last_attempt": {
     "trade_date": "2026-10-29",
-    "fetched_at": "2026-10-29T22:03:53.311564+08:00",
-    "status": "complete_with_limitations",
+    "fetched_at": "2026-10-29T23:16:20.725915+08:00",
+    "status": "complete",
     "collection_status": "complete",
     "collection_failures": []
   }
