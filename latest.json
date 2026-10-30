@@ -1,13 +1,11 @@
 {
   "trade_date": "2026-10-30",
-  "published_at": "2026-10-30T22:05:28.397205+08:00",
-  "fetched_at": "2026-10-30T21:57:27.089923+08:00",
+  "published_at": "2026-10-30T23:10:15.495584+08:00",
+  "fetched_at": "2026-10-30T23:05:31.583721+08:00",
   "collection_status": "complete",
-  "status": "complete_with_limitations",
-  "research_status": "limited",
-  "missing_data": [
-    "首板后续跟踪存在历史名单或价格缺失，详见followup"
-  ],
+  "status": "complete",
+  "research_status": "available",
+  "missing_data": [],
   "verified": {
     "mainboard_limit_up_count": 42,
     "mainboard_height": 5.0,
@@ -20,24 +18,22 @@
       {
         "name": "上证指数",
         "symbol": "sh000001",
-        "date": "2026-10-30",
+        "date": "2026-10-30T00:00:00.000",
         "open": 3605.65,
         "close": 3599.02,
         "high": 3660.21,
         "low": 3595.26,
-        "volume": 497973940,
-        "amount": 764227190864.5
+        "amount": 497973940.0
       },
       {
         "name": "深证成指",
         "symbol": "sz399001",
-        "date": "2026-10-30",
+        "date": "2026-10-30T00:00:00.000",
         "open": 10871.13,
         "close": 10833.78,
         "high": 11171.58,
         "low": 10833.78,
-        "volume": 608472237,
-        "amount": 910240825165.23
+        "amount": 608472237.0
       },
       {
         "name": "创业板指",
@@ -80,31 +76,15 @@
   "note": "公开行情研究数据；不含私有代码、账户信息或真实策略收益。先核对trade_date和缺失项目。",
   "followup": {
     "rows": 78,
-    "prices_available": 63,
+    "prices_available": 78,
     "missing_archive_dates": [],
-    "missing_price_codes": [
-      "603667",
-      "603680",
-      "603703",
-      "603868",
-      "603897",
-      "603920",
-      "603926",
-      "603992",
-      "605060",
-      "605179",
-      "605288",
-      "605338",
-      "605366",
-      "605566",
-      "605598"
-    ],
+    "missing_price_codes": [],
     "note": "按交易日追踪首板后第1/2个交易日，不推断成交或策略收益"
   },
   "last_attempt": {
     "trade_date": "2026-10-30",
-    "fetched_at": "2026-10-30T21:57:27.089923+08:00",
-    "status": "complete_with_limitations",
+    "fetched_at": "2026-10-30T23:05:31.583721+08:00",
+    "status": "complete",
     "collection_status": "complete",
     "collection_failures": []
   }
