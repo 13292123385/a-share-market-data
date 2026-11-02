@@ -1,6 +1,6 @@
 {
   "trade_date": "2026-10-30",
-  "published_at": "2026-11-03T00:57:46.654789+08:00",
+  "published_at": "2026-11-03T02:27:40.165720+08:00",
   "fetched_at": "2026-10-30T23:05:31.583721+08:00",
   "collection_status": "complete",
   "status": "complete",
@@ -83,7 +83,7 @@
   },
   "last_attempt": {
     "trade_date": "2026-11-03",
-    "fetched_at": "2026-11-03T00:57:30.074177+08:00",
+    "fetched_at": "2026-11-03T02:27:28.044977+08:00",
     "status": "skipped",
     "collection_status": null,
     "collection_failures": null
