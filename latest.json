@@ -1,85 +1,87 @@
 {
-  "trade_date": "2026-11-05",
-  "published_at": "2026-11-05T23:22:43.953995+08:00",
-  "fetched_at": "2026-11-05T23:17:38.805545+08:00",
+  "trade_date": "2026-11-06",
+  "published_at": "2026-11-06T17:36:08.302279+08:00",
+  "fetched_at": "2026-11-06T17:27:59.189078+08:00",
   "collection_status": "partial",
   "status": "partial",
   "research_status": "limited",
   "missing_data": [
+    "行情与官方名单代码覆盖不一致或无法核验，详见market_reconciliation",
+    "深圳A股成交额交叉核验未通过或不可比较",
+    "全市场收盘快照；不跨日套用实时数据",
     "首板后续跟踪存在历史名单或价格缺失，详见followup",
-    "limit_down:empty_unverified",
     "上一交易日已归档涨停池；昨日涨停接口不提供昨日连板高度，不能替代该依赖"
   ],
   "verified": {
-    "mainboard_limit_up_count": 71,
-    "mainboard_height": 4.0,
-    "first_board_candidates": 51,
-    "all_day_one_word_excluded": 5,
+    "mainboard_limit_up_count": 29,
+    "mainboard_height": 5.0,
+    "first_board_candidates": 19,
+    "all_day_one_word_excluded": 2,
     "one_word_unknown": 0,
-    "broken_count": 43,
-    "limit_down_count": null,
+    "broken_count": 12,
+    "limit_down_count": 15,
     "indices": [
       {
         "name": "上证指数",
         "symbol": "sh000001",
-        "date": "2026-11-05",
-        "open": 3646.57,
-        "close": 3689.91,
-        "high": 3701.59,
-        "low": 3646.57,
-        "volume": 571291638,
-        "amount": 979711778222.0
+        "date": "2026-11-06",
+        "open": 3612.15,
+        "close": 3649.18,
+        "high": 3660.49,
+        "low": 3610.2,
+        "volume": 477042561,
+        "amount": 772634566231.1
       },
       {
         "name": "深证成指",
         "symbol": "sz399001",
-        "date": "2026-11-05",
-        "open": 11216.81,
-        "close": 11471.09,
-        "high": 11613.4,
-        "low": 11215.48,
-        "volume": 672558794,
-        "amount": 1138241322280.09
+        "date": "2026-11-06",
+        "open": 11044.56,
+        "close": 11175.78,
+        "high": 11303.22,
+        "low": 11044.56,
+        "volume": 569400962,
+        "amount": 885159900792.13
       },
       {
         "name": "创业板指",
         "symbol": "sz399006",
-        "date": "2026-11-05",
-        "open": 2493.73,
-        "close": 2566.8,
-        "high": 2625.98,
-        "low": 2493.67,
-        "volume": 231283658,
-        "amount": 578564247279.27
+        "date": "2026-11-06",
+        "open": 2438.72,
+        "close": 2465.23,
+        "high": 2506.97,
+        "low": 2438.72,
+        "volume": 189023618,
+        "amount": 444017074033.47
       },
       {
         "name": "中证2000",
         "symbol": "csi932000",
-        "date": "2026-11-05",
-        "open": 2690.27,
-        "close": 2785.55,
-        "high": 2798.18,
-        "low": 2689.07,
-        "volume": 318988132,
-        "amount": 397301287111.0
+        "date": "2026-11-06",
+        "open": 2685.43,
+        "close": 2718.86,
+        "high": 2755.82,
+        "low": 2684.93,
+        "volume": 279135089,
+        "amount": 324743813942.0
       }
     ]
   },
   "market_estimates": {
-    "up": 4869,
-    "down": 625,
-    "flat": 84,
-    "turnover_yuan": 2135099222004.0,
-    "records": 5578,
-    "unknown_direction": 0,
-    "unknown_amount": 0,
-    "source": "新浪",
-    "note": "收盘后实时快照汇总；分页完整性和行情日期未获独立验证，可能含停牌平盘"
+    "up": null,
+    "down": null,
+    "flat": null,
+    "turnover_yuan": null,
+    "records": null,
+    "unknown_direction": null,
+    "unknown_amount": null,
+    "source": null,
+    "note": null
   },
   "market_coverage": {
-    "status": "code_coverage_matched",
-    "expected_count": 5578,
-    "observed_count": 5578,
+    "status": "unavailable",
+    "expected_count": 5579,
+    "observed_count": 0,
     "all_market_verified": false
   },
   "verified_tradable_rate": null,
@@ -88,19 +90,21 @@
     "rows": 0,
     "prices_available": 0,
     "missing_archive_dates": [
-      "2026-11-04",
-      "2026-11-03"
+      "2026-11-05",
+      "2026-11-04"
     ],
     "missing_price_codes": [],
     "note": "按交易日追踪首板后第1/2个交易日，不推断成交或策略收益"
   },
   "last_attempt": {
-    "trade_date": "2026-11-05",
-    "fetched_at": "2026-11-05T23:17:38.805545+08:00",
+    "trade_date": "2026-11-06",
+    "fetched_at": "2026-11-06T17:27:59.189078+08:00",
     "status": "partial",
     "collection_status": "partial",
     "collection_failures": [
-      "limit_down"
+      "market_coverage",
+      "market_snapshot",
+      "market_turnover"
     ]
   }
 }
