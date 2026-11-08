@@ -1,0 +1,102 @@
+{
+  "trade_date": "2026-11-05",
+  "published_at": "2026-11-09T04:43:23.177948+08:00",
+  "fetched_at": "2026-11-08T22:58:11.925838+08:00",
+  "collection_status": "partial",
+  "status": "partial",
+  "research_status": "limited",
+  "missing_data": [
+    "全市场收盘快照；不跨日套用实时数据",
+    "首板后续跟踪存在历史名单或价格缺失，详见followup",
+    "limit_down:empty_unverified",
+    "上一交易日已归档涨停池；昨日涨停接口不提供昨日连板高度，不能替代该依赖"
+  ],
+  "verified": {
+    "mainboard_limit_up_count": 71,
+    "mainboard_height": 4.0,
+    "first_board_candidates": 51,
+    "all_day_one_word_excluded": 5,
+    "one_word_unknown": 0,
+    "broken_count": 43,
+    "limit_down_count": null,
+    "indices": [
+      {
+        "name": "上证指数",
+        "symbol": "sh000001",
+        "date": "2026-11-05",
+        "open": 3646.57,
+        "close": 3689.91,
+        "high": 3701.59,
+        "low": 3646.57,
+        "volume": 571291638,
+        "amount": 979711778222.0
+      },
+      {
+        "name": "深证成指",
+        "symbol": "sz399001",
+        "date": "2026-11-05T00:00:00.000",
+        "open": 11216.81,
+        "close": 11471.09,
+        "high": 11613.4,
+        "low": 11215.48,
+        "amount": 672558794.0
+      },
+      {
+        "name": "创业板指",
+        "symbol": "sz399006",
+        "date": "2026-11-05T00:00:00.000",
+        "open": 2493.73,
+        "close": 2566.8,
+        "high": 2625.98,
+        "low": 2493.67,
+        "amount": 225321557.0
+      },
+      {
+        "name": "中证2000",
+        "symbol": "csi932000",
+        "date": "2026-11-05T00:00:00.000",
+        "close": 2785.55,
+        "source": "中证指数官网",
+        "index_code": "932000"
+      }
+    ]
+  },
+  "market_estimates": {
+    "up": null,
+    "down": null,
+    "flat": null,
+    "turnover_yuan": null,
+    "records": null,
+    "unknown_direction": null,
+    "unknown_amount": null,
+    "source": null,
+    "note": null
+  },
+  "market_coverage": {
+    "status": "not_applicable_historical",
+    "expected_count": null,
+    "observed_count": null,
+    "all_market_verified": false
+  },
+  "verified_tradable_rate": null,
+  "note": "公开行情研究数据；不含私有代码、账户信息或真实策略收益。先核对trade_date和缺失项目。",
+  "followup": {
+    "rows": 0,
+    "prices_available": 0,
+    "missing_archive_dates": [
+      "2026-11-04",
+      "2026-11-03"
+    ],
+    "missing_price_codes": [],
+    "note": "按交易日追踪首板后第1/2个交易日，不推断成交或策略收益"
+  },
+  "last_attempt": {
+    "trade_date": "2026-11-04",
+    "fetched_at": "2026-11-09T04:30:49.091489+08:00",
+    "status": "partial",
+    "collection_status": "partial",
+    "collection_failures": [
+      "candidate_prices"
+    ]
+  }
+}
