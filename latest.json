@@ -1,7 +1,7 @@
 {
   "trade_date": "2026-11-10",
-  "published_at": "2026-11-10T18:03:46.176353+08:00",
-  "fetched_at": "2026-11-10T17:56:18.142836+08:00",
+  "published_at": "2026-11-10T23:30:08.375912+08:00",
+  "fetched_at": "2026-11-10T23:29:09.419160+08:00",
   "collection_status": "partial",
   "status": "partial",
   "research_status": "limited",
@@ -91,7 +91,7 @@
   },
   "last_attempt": {
     "trade_date": "2026-11-10",
-    "fetched_at": "2026-11-10T17:56:18.142836+08:00",
+    "fetched_at": "2026-11-10T23:29:09.419160+08:00",
     "status": "partial",
     "collection_status": "partial",
     "collection_failures": [
