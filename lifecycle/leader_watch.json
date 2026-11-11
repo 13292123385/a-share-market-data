@@ -6,8 +6,10 @@
     "observation_date": "2026-11-11",
     "candidate_basis": "archived_height_ge_4",
     "leader_confirmed": null,
-    "theme_ids": [],
-    "theme_status": "missing_evidence",
+    "theme_ids": [
+      "dabanke:减速器"
+    ],
+    "theme_status": "published_active_association_only",
     "last_confirmed_break_date": "2026-11-03",
     "sessions_after_break": 6,
     "current_pool_status": "limit_up",
@@ -96,8 +98,12 @@
     "observation_date": "2026-11-11",
     "candidate_basis": "archived_height_ge_4",
     "leader_confirmed": null,
-    "theme_ids": [],
-    "theme_status": "missing_evidence",
+    "theme_ids": [
+      "dabanke:PCB",
+      "dabanke:人形机器人",
+      "dabanke:减速器"
+    ],
+    "theme_status": "published_active_association_only",
     "last_confirmed_break_date": "2026-10-30",
     "sessions_after_break": 8,
     "current_pool_status": "limit_up",
@@ -186,8 +192,10 @@
     "observation_date": "2026-11-11",
     "candidate_basis": "archived_height_ge_4",
     "leader_confirmed": null,
-    "theme_ids": [],
-    "theme_status": "missing_evidence",
+    "theme_ids": [
+      "dabanke:人形机器人"
+    ],
+    "theme_status": "published_active_association_only",
     "last_confirmed_break_date": "2026-10-28",
     "sessions_after_break": 10,
     "current_pool_status": "limit_up",
@@ -201,8 +209,10 @@
     "observation_date": "2026-11-11",
     "candidate_basis": "archived_height_ge_4",
     "leader_confirmed": null,
-    "theme_ids": [],
-    "theme_status": "missing_evidence",
+    "theme_ids": [
+      "dabanke:人形机器人"
+    ],
+    "theme_status": "published_active_association_only",
     "last_confirmed_break_date": "2026-11-11",
     "sessions_after_break": 0,
     "current_pool_status": "not_in_limit_up_pool",
@@ -216,8 +226,10 @@
     "observation_date": "2026-11-11",
     "candidate_basis": "archived_height_ge_4",
     "leader_confirmed": null,
-    "theme_ids": [],
-    "theme_status": "missing_evidence",
+    "theme_ids": [
+      "dabanke:热泵"
+    ],
+    "theme_status": "published_active_association_only",
     "last_confirmed_break_date": null,
     "sessions_after_break": null,
     "current_pool_status": "limit_up",
