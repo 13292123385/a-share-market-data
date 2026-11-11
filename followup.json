@@ -26,9 +26,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 25.25,
+      "high": 28.33,
+      "low": 25.08,
+      "close": 27.18,
+      "volume": 19572300.0,
+      "amount": 534568300.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "603666",
@@ -37,9 +46,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 28.87,
+      "high": 31.36,
+      "low": 28.62,
+      "close": 30.1,
+      "volume": 22397300.0,
+      "amount": 679482600.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "605488",
@@ -48,9 +66,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 60.0,
+      "high": 63.03,
+      "low": 59.3,
+      "close": 63.03,
+      "volume": 34547500.0,
+      "amount": 2120517600.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "603037",
@@ -59,9 +86,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 14.18,
+      "high": 14.26,
+      "low": 13.28,
+      "close": 13.99,
+      "volume": 29194900.0,
+      "amount": 404769100.00000006,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002425",
@@ -110,9 +146,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 32.4,
+      "high": 33.33,
+      "low": 30.7,
+      "close": 31.57,
+      "volume": 95105700.0,
+      "amount": 3010408500.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002343",
@@ -141,9 +186,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 28.33,
+      "high": 30.97,
+      "low": 28.2,
+      "close": 29.66,
+      "volume": 30133300.0,
+      "amount": 898925900.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "600778",
@@ -232,9 +286,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 9.57,
+      "high": 9.57,
+      "low": 9.28,
+      "close": 9.4,
+      "volume": 45489600.0,
+      "amount": 428240400.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "603955",
@@ -243,9 +306,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 38.6,
+      "high": 38.99,
+      "low": 36.31,
+      "close": 36.55,
+      "volume": 20354500.0,
+      "amount": 764876799.9999999,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002535",
@@ -414,9 +486,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 18.66,
+      "high": 19.16,
+      "low": 18.21,
+      "close": 18.98,
+      "volume": 15861600.0,
+      "amount": 297436200.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "600793",
@@ -465,9 +546,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 39.56,
+      "high": 42.0,
+      "low": 38.92,
+      "close": 40.52,
+      "volume": 9598700.0,
+      "amount": 384655600.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "603466",
@@ -476,9 +566,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 15.77,
+      "high": 16.86,
+      "low": 15.4,
+      "close": 16.86,
+      "volume": 124747100.0,
+      "amount": 2034566800.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002432",
@@ -507,9 +606,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 12.28,
+      "high": 12.48,
+      "low": 12.06,
+      "close": 12.34,
+      "volume": 13447200.0,
+      "amount": 165041100.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002021",
@@ -538,9 +646,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 8.79,
+      "high": 9.05,
+      "low": 8.44,
+      "close": 8.8,
+      "volume": 39920900.0,
+      "amount": 348787500.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "603598",
@@ -549,9 +666,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 23.22,
+      "high": 23.26,
+      "low": 22.1,
+      "close": 22.59,
+      "volume": 51116100.0,
+      "amount": 1157437600.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002238",
@@ -600,9 +726,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 16.87,
+      "high": 18.9,
+      "low": 16.19,
+      "close": 17.36,
+      "volume": 59302000.0,
+      "amount": 1015841400.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "600281",
@@ -651,9 +786,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 54.91,
+      "high": 61.01,
+      "low": 54.5,
+      "close": 61.01,
+      "volume": 2310000.0,
+      "amount": 137305900.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002861",
@@ -762,9 +906,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 21.68,
+      "high": 23.53,
+      "low": 20.81,
+      "close": 21.4,
+      "volume": 47431700.0,
+      "amount": 1054548700.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002995",
@@ -793,9 +946,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 233.19,
+      "high": 237.37,
+      "low": 228.81,
+      "close": 235.01,
+      "volume": 18768100.0,
+      "amount": 4383095900.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "603283",
@@ -804,9 +966,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 40.2,
+      "high": 43.0,
+      "low": 39.62,
+      "close": 42.9,
+      "volume": 31763800.0,
+      "amount": 1318594900.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002045",
@@ -855,9 +1026,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 16.32,
+      "high": 16.36,
+      "low": 15.48,
+      "close": 15.78,
+      "volume": 16672000.0,
+      "amount": 262851100.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "001232",
@@ -1046,9 +1226,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 11.83,
+      "high": 11.85,
+      "low": 11.71,
+      "close": 11.85,
+      "volume": 9441400.0,
+      "amount": 111829200.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002303",
@@ -1077,9 +1266,18 @@
     "sessions_since_first": 1,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 14.95,
+      "high": 16.27,
+      "low": 14.51,
+      "close": 15.88,
+      "volume": 97941100.0,
+      "amount": 1511947400.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002037",
@@ -1148,9 +1346,18 @@
     "sessions_since_first": 2,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 9.65,
+      "high": 10.52,
+      "low": 9.57,
+      "close": 10.5,
+      "volume": 49164100.0,
+      "amount": 502287500.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "000530",
@@ -1179,9 +1386,18 @@
     "sessions_since_first": 2,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 13.05,
+      "high": 14.1,
+      "low": 12.7,
+      "close": 13.22,
+      "volume": 48648400.0,
+      "amount": 650828100.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "001379",
@@ -1250,9 +1466,18 @@
     "sessions_since_first": 2,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 12.06,
+      "high": 12.71,
+      "low": 11.68,
+      "close": 11.87,
+      "volume": 99456300.0,
+      "amount": 1203038300.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002708",
@@ -1281,9 +1506,18 @@
     "sessions_since_first": 2,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 61.21,
+      "high": 64.94,
+      "low": 61.21,
+      "close": 62.51,
+      "volume": 11738600.0,
+      "amount": 742250100.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "001388",
@@ -1372,9 +1606,18 @@
     "sessions_since_first": 2,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 18.81,
+      "high": 19.47,
+      "low": 18.74,
+      "close": 19.01,
+      "volume": 37658600.0,
+      "amount": 716697100.0000001,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002931",
@@ -1423,9 +1666,18 @@
     "sessions_since_first": 2,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 36.09,
+      "high": 39.7,
+      "low": 36.09,
+      "close": 39.42,
+      "volume": 49073900.0,
+      "amount": 1862251500.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002488",
@@ -1534,9 +1786,18 @@
     "sessions_since_first": 2,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 22.22,
+      "high": 24.43,
+      "low": 20.95,
+      "close": 24.43,
+      "volume": 16860000.0,
+      "amount": 389248000.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "001390",
@@ -1745,9 +2006,18 @@
     "sessions_since_first": 2,
     "observation_date": "2026-11-11",
     "original_eligible_observation": true,
-    "status": "missing_price",
+    "status": "price_available",
     "execution_verified": false,
-    "price": null
+    "price": {
+      "date": "2026-11-11",
+      "open": 57.7,
+      "high": 59.51,
+      "low": 56.1,
+      "close": 58.2,
+      "volume": 6564600.0,
+      "amount": 380371300.0,
+      "source": "AKShare / 腾讯"
+    }
   },
   {
     "code": "002864",
