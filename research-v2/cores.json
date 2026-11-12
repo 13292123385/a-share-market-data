@@ -61,13 +61,13 @@
       "role_evidence": {
         "涨幅王": {
           "basis": "窗口内有日期证据的最近观察分段至今前复权价格涨幅领先；不是真实行情起点或策略收益",
-          "sample_size": 44,
+          "sample_size": 69,
           "observation_date": "2026-11-11",
           "scope": "dated_active_stock_sample_not_all_constituents"
         },
         "爆发王": {
           "basis": "最近1至5个交易日的前复权价格涨幅领先，且最近3日有本题材强势证据",
-          "sample_size": 43,
+          "sample_size": 69,
           "observation_date": "2026-11-11",
           "scope": "dated_active_stock_sample_not_all_constituents"
         }
@@ -134,7 +134,7 @@
       "role_evidence": {
         "涨幅王": {
           "basis": "窗口内有日期证据的最近观察分段至今前复权价格涨幅领先；不是真实行情起点或策略收益",
-          "sample_size": 12,
+          "sample_size": 16,
           "observation_date": "2026-11-11",
           "scope": "dated_active_stock_sample_not_all_constituents"
         }
@@ -200,7 +200,7 @@
       "role_evidence": {
         "爆发王": {
           "basis": "最近1至5个交易日的前复权价格涨幅领先，且最近3日有本题材强势证据",
-          "sample_size": 11,
+          "sample_size": 15,
           "observation_date": "2026-11-11",
           "scope": "dated_active_stock_sample_not_all_constituents"
         }

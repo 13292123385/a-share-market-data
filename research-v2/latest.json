@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "trade_date": "2026-11-11",
-  "run_id": "20261112T131605-86621f2b9bed42b4bf01e0bd6e60b982",
+  "run_id": "20261112T133051-927c52fedf5941c1aba5eb030510802a",
   "status": "partial_research",
   "ranking_scope": "dated_partial_active_associations",
   "selection": {
@@ -254,13 +254,13 @@
         "role_evidence": {
           "涨幅王": {
             "basis": "窗口内有日期证据的最近观察分段至今前复权价格涨幅领先；不是真实行情起点或策略收益",
-            "sample_size": 44,
+            "sample_size": 69,
             "observation_date": "2026-11-11",
             "scope": "dated_active_stock_sample_not_all_constituents"
           },
           "爆发王": {
             "basis": "最近1至5个交易日的前复权价格涨幅领先，且最近3日有本题材强势证据",
-            "sample_size": 43,
+            "sample_size": 69,
             "observation_date": "2026-11-11",
             "scope": "dated_active_stock_sample_not_all_constituents"
           }
@@ -327,7 +327,7 @@
         "role_evidence": {
           "涨幅王": {
             "basis": "窗口内有日期证据的最近观察分段至今前复权价格涨幅领先；不是真实行情起点或策略收益",
-            "sample_size": 12,
+            "sample_size": 16,
             "observation_date": "2026-11-11",
             "scope": "dated_active_stock_sample_not_all_constituents"
           }
@@ -393,7 +393,7 @@
         "role_evidence": {
           "爆发王": {
             "basis": "最近1至5个交易日的前复权价格涨幅领先，且最近3日有本题材强势证据",
-            "sample_size": 11,
+            "sample_size": 15,
             "observation_date": "2026-11-11",
             "scope": "dated_active_stock_sample_not_all_constituents"
           }
@@ -414,12 +414,12 @@
     "observed_stock_days": 4505,
     "observed_themes_scanned": 2443,
     "ranked_resonant_themes": 376,
-    "core_price_stocks": 60,
+    "core_price_stocks": 95,
     "core_price_eligible_stocks": 95,
-    "price_budget_truncated_stocks": 35,
-    "core_price_valid_rows": 2442,
-    "core_price_requested_rows": 2460,
-    "reused_lifecycle_unadjusted_rows": 50,
+    "price_budget_truncated_stocks": 0,
+    "core_price_valid_rows": 3877,
+    "core_price_requested_rows": 3895,
+    "reused_lifecycle_unadjusted_rows": 78,
     "minute_data_verified_stocks": 0,
     "business_links_verified": 0,
     "catalysts_verified": 0,
@@ -433,8 +433,7 @@
     "第三方历史复盘可能修订，不是当时已知快照，不能用于无偏信号回测",
     "真实业务和新催化未独立验证，C席位可空缺；带动关系待确认",
     "分钟行情、盘口及次日可执行入场缺失，成交与真实策略收益未知",
-    "部分重点股票日线未补全，相关角色收益保留未知",
-    "重点价格预算仅覆盖60/95只近期关联股；角色是在有行情样本内比较"
+    "部分重点股票日线未补全，相关角色收益保留未知"
   ],
   "changes": [
     {
