@@ -1,0 +1,85 @@
+{
+  "trade_date": "2026-11-12",
+  "published_at": "2026-11-13T04:53:16.765657+08:00",
+  "fetched_at": "2026-11-12T23:52:44.042494+08:00",
+  "collection_status": "partial",
+  "status": "partial",
+  "research_status": "limited",
+  "missing_data": [
+    "中证2000指定日期收盘值"
+  ],
+  "verified": {
+    "mainboard_limit_up_count": 37,
+    "mainboard_height": 5.0,
+    "first_board_candidates": 26,
+    "all_day_one_word_excluded": 3,
+    "one_word_unknown": 0,
+    "broken_count": 33,
+    "limit_down_count": 5,
+    "indices": [
+      {
+        "name": "上证指数",
+        "symbol": "sh000001",
+        "date": "2026-11-12T00:00:00.000",
+        "open": 3673.06,
+        "close": 3655.83,
+        "high": 3699.58,
+        "low": 3647.44,
+        "amount": 496533033.0
+      },
+      {
+        "name": "深证成指",
+        "symbol": "sz399001",
+        "date": "2026-11-12T00:00:00.000",
+        "open": 11361.82,
+        "close": 11197.98,
+        "high": 11515.65,
+        "low": 11193.26,
+        "amount": 632899416.0
+      },
+      {
+        "name": "创业板指",
+        "symbol": "sz399006",
+        "date": "2026-11-12T00:00:00.000",
+        "open": 2559.16,
+        "close": 2509.43,
+        "high": 2620.25,
+        "low": 2508.29,
+        "amount": 196927278.0
+      }
+    ]
+  },
+  "market_estimates": {
+    "up": 875,
+    "down": 4635,
+    "flat": 70,
+    "turnover_yuan": 1945871950570.0,
+    "records": 5580,
+    "unknown_direction": 0,
+    "unknown_amount": 0,
+    "source": "新浪",
+    "note": "收盘后实时快照汇总；分页完整性和行情日期未获独立验证，可能含停牌平盘"
+  },
+  "market_coverage": {
+    "status": "code_coverage_matched",
+    "expected_count": 5580,
+    "observed_count": 5580,
+    "all_market_verified": false
+  },
+  "verified_tradable_rate": null,
+  "note": "公开行情研究数据；不含私有代码、账户信息或真实策略收益。先核对trade_date和缺失项目。",
+  "followup": {
+    "rows": 121,
+    "prices_available": 121,
+    "missing_archive_dates": [],
+    "missing_price_codes": [],
+    "note": "按交易日追踪首板后第1/2个交易日，不推断成交或策略收益"
+  },
+  "last_attempt": {
+    "trade_date": "2026-10-23",
+    "fetched_at": "2026-11-13T04:52:19.099755+08:00",
+    "status": "complete_with_limitations",
+    "collection_status": "complete",
+    "collection_failures": []
+  }
+}
