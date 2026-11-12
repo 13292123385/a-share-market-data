@@ -1,0 +1,535 @@
+{
+  "schema_version": 1,
+  "trade_date": "2026-11-11",
+  "run_id": "20261112T133444-0b22bb993ff94bbbb6203a62c456f28d",
+  "status": "partial_research",
+  "ranking_scope": "dated_partial_active_associations",
+  "selection": {
+    "seats": {
+      "A": {
+        "theme_id": "机器人",
+        "theme_name": "机器人",
+        "as_of": "2026-11-11",
+        "rank": 1,
+        "composite_score": 99.839752,
+        "activity_score": 99.839752,
+        "full_score": null,
+        "score_kind": "partial_observed_activity",
+        "seat_status": "provisional_observation",
+        "recent_active_days": 5,
+        "last_active_date": "2026-11-11",
+        "new_hotspot": false,
+        "catalyst_verified": false,
+        "weight_coverage": 1.0,
+        "common_windows": [
+          "5",
+          "10",
+          "20",
+          "40"
+        ],
+        "omitted_windows": [],
+        "composite_interval": [
+          99.839752,
+          99.839752
+        ],
+        "configured_weights": {
+          "5": 0.5,
+          "10": 0.25,
+          "20": 0.2,
+          "40": 0.05
+        },
+        "effective_weights": {
+          "5": 0.5,
+          "10": 0.25,
+          "20": 0.2,
+          "40": 0.05
+        },
+        "scope": "dated_observed_associations",
+        "missing": [
+          "window_5_verified_membership_quotes_or_market_metrics",
+          "window_10_verified_membership_quotes_or_market_metrics",
+          "window_20_verified_membership_quotes_or_market_metrics",
+          "window_40_verified_membership_quotes_or_market_metrics"
+        ],
+        "windows": {
+          "5": {
+            "score": 99.836667,
+            "activity_score": 99.836667,
+            "full_score": null,
+            "score_kind": "partial_observed_activity",
+            "coverage": 1.0,
+            "requested_sessions": 5,
+            "observed_sessions": 5
+          },
+          "10": {
+            "score": 99.953333,
+            "activity_score": 99.953333,
+            "full_score": null,
+            "score_kind": "partial_observed_activity",
+            "coverage": 1.0,
+            "requested_sessions": 10,
+            "observed_sessions": 10
+          },
+          "20": {
+            "score": 100.0,
+            "activity_score": 100.0,
+            "full_score": null,
+            "score_kind": "partial_observed_activity",
+            "coverage": 1.0,
+            "requested_sessions": 20,
+            "observed_sessions": 20
+          },
+          "40": {
+            "score": 98.661703,
+            "activity_score": 98.661703,
+            "full_score": null,
+            "score_kind": "partial_observed_activity",
+            "coverage": 1.0,
+            "requested_sessions": 40,
+            "observed_sessions": 40
+          }
+        }
+      },
+      "B": {
+        "theme_id": "影视内容",
+        "theme_name": "影视内容",
+        "as_of": "2026-11-11",
+        "rank": 2,
+        "composite_score": 82.746364,
+        "activity_score": 82.746364,
+        "full_score": null,
+        "score_kind": "partial_observed_activity",
+        "seat_status": "provisional_observation",
+        "recent_active_days": 5,
+        "last_active_date": "2026-11-11",
+        "new_hotspot": false,
+        "catalyst_verified": false,
+        "weight_coverage": 1.0,
+        "common_windows": [
+          "5",
+          "10",
+          "20",
+          "40"
+        ],
+        "omitted_windows": [],
+        "composite_interval": [
+          82.746364,
+          82.746364
+        ],
+        "configured_weights": {
+          "5": 0.5,
+          "10": 0.25,
+          "20": 0.2,
+          "40": 0.05
+        },
+        "effective_weights": {
+          "5": 0.5,
+          "10": 0.25,
+          "20": 0.2,
+          "40": 0.05
+        },
+        "scope": "dated_observed_associations",
+        "missing": [
+          "window_5_verified_membership_quotes_or_market_metrics",
+          "window_10_verified_membership_quotes_or_market_metrics",
+          "window_20_verified_membership_quotes_or_market_metrics",
+          "window_40_verified_membership_quotes_or_market_metrics"
+        ],
+        "windows": {
+          "5": {
+            "score": 85.035676,
+            "activity_score": 85.035676,
+            "full_score": null,
+            "score_kind": "partial_observed_activity",
+            "coverage": 1.0,
+            "requested_sessions": 5,
+            "observed_sessions": 5
+          },
+          "10": {
+            "score": 84.349985,
+            "activity_score": 84.349985,
+            "full_score": null,
+            "score_kind": "partial_observed_activity",
+            "coverage": 1.0,
+            "requested_sessions": 10,
+            "observed_sessions": 10
+          },
+          "20": {
+            "score": 77.194377,
+            "activity_score": 77.194377,
+            "full_score": null,
+            "score_kind": "partial_observed_activity",
+            "coverage": 1.0,
+            "requested_sessions": 20,
+            "observed_sessions": 20
+          },
+          "40": {
+            "score": 74.043091,
+            "activity_score": 74.043091,
+            "full_score": null,
+            "score_kind": "partial_observed_activity",
+            "coverage": 1.0,
+            "requested_sessions": 40,
+            "observed_sessions": 40
+          }
+        }
+      },
+      "C": null
+    },
+    "challenger_gap": 17.093388,
+    "state": {
+      "target_date": "2026-11-11",
+      "seats": {
+        "A": "机器人",
+        "B": "影视内容",
+        "C": null
+      },
+      "pending": null,
+      "policy": {
+        "swap_margin": 5.0,
+        "swap_confirm_sessions": 2
+      }
+    }
+  },
+  "core_by_theme": {
+    "机器人": [
+      {
+        "code": "002578",
+        "name": "闽发铝业",
+        "theme_id": "机器人",
+        "observation_date": "2026-11-11",
+        "seat": "A",
+        "roles": [
+          "涨幅王",
+          "爆发王"
+        ],
+        "role_status": "provisional_active_stock_sample",
+        "selection_scope": "dated_active_stock_sample_not_all_constituents",
+        "mapping_confidence": "dated_published_reason_business_unverified",
+        "round_start": "2026-11-02",
+        "round_baseline_date": "2026-10-30",
+        "round_start_basis": "dated_strength_signal_after_confirmed_break",
+        "round_start_left_censored": false,
+        "round_identity_verified": false,
+        "round_start_kind": "observed_signal_segment",
+        "round_return_pct": 95.4984,
+        "return_5d_pct": 46.8599,
+        "return_1d_pct": 0.33,
+        "raw_round_price_change_pct": null,
+        "raw_price_change_5d_pct": null,
+        "adjustment": "qfq",
+        "return_kind": "qfq_price_change_not_strategy_return",
+        "drawdown_pct": 0.0,
+        "drawdown_kind": "close_from_observed_round_peak",
+        "lifecycle_stage": "断板",
+        "current_height": null,
+        "max_height": 7.0,
+        "relative_strength_5d_pct": null,
+        "relative_strength_unit": "percentage_points_above_compounded_market_return",
+        "leadership_status": "pending_confirmation",
+        "recent_strong_signal_dates": [
+          "2026-11-05",
+          "2026-11-06",
+          "2026-11-09",
+          "2026-11-10"
+        ],
+        "current_limit_up": false,
+        "all_day_one_word": null,
+        "first_seal": null,
+        "last_close": 6.08,
+        "status_lost_conditions": [
+          "连续3个已知交易日收盘下跌",
+          "最近3个交易日无有效强势信号",
+          "最近3个交易日无可验证的本题材关联",
+          "同角色出现证据更充分的新核心"
+        ],
+        "risks": [
+          "观察身份不保证成交；次日条件需盘中确认",
+          "T+1下当天买入不能当天退出",
+          "全天一字板状态未知"
+        ],
+        "execution_verified": false,
+        "entry_price": null,
+        "actual_return": null,
+        "role_evidence": {
+          "涨幅王": {
+            "basis": "窗口内有日期证据的最近观察分段至今前复权价格涨幅领先；不是真实行情起点或策略收益",
+            "sample_size": 69,
+            "observation_date": "2026-11-11",
+            "scope": "dated_active_stock_sample_not_all_constituents"
+          },
+          "爆发王": {
+            "basis": "最近1至5个交易日的前复权价格涨幅领先，且最近3日有本题材强势证据",
+            "sample_size": 69,
+            "observation_date": "2026-11-11",
+            "scope": "dated_active_stock_sample_not_all_constituents"
+          }
+        }
+      }
+    ],
+    "影视内容": [
+      {
+        "code": "600715",
+        "name": "文投控股",
+        "theme_id": "影视内容",
+        "observation_date": "2026-11-11",
+        "seat": "B",
+        "roles": [
+          "涨幅王"
+        ],
+        "role_status": "provisional_active_stock_sample",
+        "selection_scope": "dated_active_stock_sample_not_all_constituents",
+        "mapping_confidence": "dated_published_reason_business_unverified",
+        "round_start": "2026-11-09",
+        "round_baseline_date": "2026-11-06",
+        "round_start_basis": "dated_strength_signal_after_confirmed_break",
+        "round_start_left_censored": false,
+        "round_identity_verified": false,
+        "round_start_kind": "observed_signal_segment",
+        "round_return_pct": 33.617,
+        "return_5d_pct": 27.1255,
+        "return_1d_pct": 10.1754,
+        "raw_round_price_change_pct": null,
+        "raw_price_change_5d_pct": null,
+        "adjustment": "qfq",
+        "return_kind": "qfq_price_change_not_strategy_return",
+        "drawdown_pct": 0.0,
+        "drawdown_kind": "close_from_observed_round_peak",
+        "lifecycle_stage": "连板",
+        "current_height": 3.0,
+        "max_height": 3.0,
+        "relative_strength_5d_pct": null,
+        "relative_strength_unit": "percentage_points_above_compounded_market_return",
+        "leadership_status": "pending_confirmation",
+        "recent_strong_signal_dates": [
+          "2026-11-09",
+          "2026-11-10",
+          "2026-11-11"
+        ],
+        "current_limit_up": true,
+        "all_day_one_word": false,
+        "first_seal": "092500",
+        "last_close": 3.14,
+        "status_lost_conditions": [
+          "连续3个已知交易日收盘下跌",
+          "最近3个交易日无有效强势信号",
+          "最近3个交易日无可验证的本题材关联",
+          "同角色出现证据更充分的新核心"
+        ],
+        "risks": [
+          "观察身份不保证成交；次日条件需盘中确认",
+          "T+1下当天买入不能当天退出",
+          "当日涨幅较大，次日加速与回撤需重新评估"
+        ],
+        "execution_verified": false,
+        "entry_price": null,
+        "actual_return": null,
+        "role_evidence": {
+          "涨幅王": {
+            "basis": "窗口内有日期证据的最近观察分段至今前复权价格涨幅领先；不是真实行情起点或策略收益",
+            "sample_size": 16,
+            "observation_date": "2026-11-11",
+            "scope": "dated_active_stock_sample_not_all_constituents"
+          }
+        }
+      },
+      {
+        "code": "601595",
+        "name": "上海电影",
+        "theme_id": "影视内容",
+        "observation_date": "2026-11-11",
+        "seat": "B",
+        "roles": [
+          "爆发王"
+        ],
+        "role_status": "provisional_active_stock_sample",
+        "selection_scope": "dated_active_stock_sample_not_all_constituents",
+        "mapping_confidence": "dated_published_reason_business_unverified",
+        "round_start": "2026-11-09",
+        "round_baseline_date": "2026-11-06",
+        "round_start_basis": "dated_strength_signal_after_confirmed_break",
+        "round_start_left_censored": false,
+        "round_identity_verified": false,
+        "round_start_kind": "observed_signal_segment",
+        "round_return_pct": 30.9564,
+        "return_5d_pct": 50.5304,
+        "return_1d_pct": 10.007,
+        "raw_round_price_change_pct": null,
+        "raw_price_change_5d_pct": null,
+        "adjustment": "qfq",
+        "return_kind": "qfq_price_change_not_strategy_return",
+        "drawdown_pct": 0.0,
+        "drawdown_kind": "close_from_observed_round_peak",
+        "lifecycle_stage": "连板",
+        "current_height": 2.0,
+        "max_height": 2.0,
+        "relative_strength_5d_pct": null,
+        "relative_strength_unit": "percentage_points_above_compounded_market_return",
+        "leadership_status": "pending_confirmation",
+        "recent_strong_signal_dates": [
+          "2026-11-06",
+          "2026-11-09",
+          "2026-11-10",
+          "2026-11-11"
+        ],
+        "current_limit_up": true,
+        "all_day_one_word": false,
+        "first_seal": "134645",
+        "last_close": 46.83,
+        "status_lost_conditions": [
+          "连续3个已知交易日收盘下跌",
+          "最近3个交易日无有效强势信号",
+          "最近3个交易日无可验证的本题材关联",
+          "同角色出现证据更充分的新核心"
+        ],
+        "risks": [
+          "观察身份不保证成交；次日条件需盘中确认",
+          "T+1下当天买入不能当天退出",
+          "当日涨幅较大，次日加速与回撤需重新评估"
+        ],
+        "execution_verified": false,
+        "entry_price": null,
+        "actual_return": null,
+        "role_evidence": {
+          "爆发王": {
+            "basis": "最近1至5个交易日的前复权价格涨幅领先，且最近3日有本题材强势证据",
+            "sample_size": 15,
+            "observation_date": "2026-11-11",
+            "scope": "dated_active_stock_sample_not_all_constituents"
+          }
+        }
+      }
+    ]
+  },
+  "coverage": {
+    "window_start": "2026-09-09",
+    "window_end": "2026-11-11",
+    "requested_trading_days": 40,
+    "dated_review_days": 40,
+    "complete_historical_membership_days": 0,
+    "archived_market_quote_days": 8,
+    "verified_full_market_ohlcv_days": 0,
+    "selected_limit_pool_days": 14,
+    "independent_pool_code_matches": "14/14",
+    "observed_stock_days": 4505,
+    "observed_themes_scanned": 2443,
+    "ranked_resonant_themes": 376,
+    "core_price_stocks": 95,
+    "core_price_eligible_stocks": 95,
+    "price_budget_truncated_stocks": 0,
+    "core_price_valid_rows": 3877,
+    "core_price_requested_rows": 3895,
+    "reused_lifecycle_unadjusted_rows": 78,
+    "minute_data_verified_stocks": 0,
+    "business_links_verified": 0,
+    "catalysts_verified": 0,
+    "observed_focus_stocks": 3,
+    "formal_full_market_rank_available": false
+  },
+  "missing_data": [
+    "完整历史题材成分未知，不能用当前成员倒填；正式全市场强度与相对市场收益为空",
+    "40日全主板轻量行情仅有8/40日已存快照，快照字段未全部独立核验",
+    "题材上涨广度、全成分成交份额及全成分炸板数缺少完整分母",
+    "第三方历史复盘可能修订，不是当时已知快照，不能用于无偏信号回测",
+    "真实业务和新催化未独立验证，C席位可空缺；带动关系待确认",
+    "分钟行情、盘口及次日可执行入场缺失，成交与真实策略收益未知",
+    "部分重点股票日线未补全，相关角色收益保留未知"
+  ],
+  "changes": [
+    {
+      "kind": "initial_core_observation",
+      "code": "002578",
+      "name": "闽发铝业",
+      "roles": [
+        "涨幅王",
+        "爆发王"
+      ]
+    },
+    {
+      "kind": "initial_core_observation",
+      "code": "600715",
+      "name": "文投控股",
+      "roles": [
+        "涨幅王"
+      ]
+    },
+    {
+      "kind": "initial_core_observation",
+      "code": "601595",
+      "name": "上海电影",
+      "roles": [
+        "爆发王"
+      ]
+    }
+  ],
+  "trading": {
+    "observation_count": 3,
+    "max_observations": 9,
+    "max_planned_positions": 4,
+    "actual_positions": null,
+    "actual_return": null,
+    "note": "候选仍是有条件的研究优先级；未推断下单、持仓、实际买价或可成交收益。",
+    "candidates": [],
+    "research_setups": [
+      {
+        "code": "600715",
+        "name": "文投控股",
+        "patterns": [
+          "三四板换手接力：次日分歧承接和换手需盘中确认"
+        ],
+        "status": "conditional_research_only",
+        "entry_price": null,
+        "execution_verified": false
+      },
+      {
+        "code": "601595",
+        "name": "上海电影",
+        "patterns": [
+          "三四板换手接力：次日分歧承接和换手需盘中确认"
+        ],
+        "status": "conditional_research_only",
+        "entry_price": null,
+        "execution_verified": false
+      }
+    ],
+    "blocked": [
+      {
+        "code": "002578",
+        "reasons": [
+          "没有符合所研究三种模式的当日证据"
+        ]
+      },
+      {
+        "code": "600715",
+        "reasons": [
+          "短线接力市场适配未确认",
+          "回撤风险预算未设置",
+          "潜在回撤未核实或超出风险预算",
+          "流动性未验证",
+          "盘中入场证据未验证",
+          "T+1退出风险未评估",
+          "价格加速风险未评估",
+          "入场或失效条件缺失",
+          "入场证据来源缺失",
+          "盘中证据时间缺失"
+        ]
+      },
+      {
+        "code": "601595",
+        "reasons": [
+          "短线接力市场适配未确认",
+          "回撤风险预算未设置",
+          "潜在回撤未核实或超出风险预算",
+          "流动性未验证",
+          "盘中入场证据未验证",
+          "T+1退出风险未评估",
+          "价格加速风险未评估",
+          "入场或失效条件缺失",
+          "入场证据来源缺失",
+          "盘中证据时间缺失"
+        ]
+      }
+    ]
+  },
+  "return_kind": "复权价格变动研究，非已验证可成交收益"
+}

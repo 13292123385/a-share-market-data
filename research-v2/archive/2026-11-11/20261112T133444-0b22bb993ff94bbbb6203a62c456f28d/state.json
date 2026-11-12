@@ -1,0 +1,13 @@
+{
+  "target_date": "2026-11-11",
+  "seats": {
+    "A": "机器人",
+    "B": "影视内容",
+    "C": null
+  },
+  "pending": null,
+  "policy": {
+    "swap_margin": 5.0,
+    "swap_confirm_sessions": 2
+  }
+}
