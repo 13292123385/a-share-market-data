@@ -1,14 +1,17 @@
-# 云端行情统一入口
+# 腾讯云行情GitHub中转统一入口
 
-入口更新时间：2026-11-13T13:10:24.180045+08:00
+转接页面生成时间：2026-11-13T13:54:45.900238+08:00（不是行情采集时间）
+手机普通ChatGPT优先读取 [一次读取入口](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/START_HERE.md)。
 先核对下表各自交易日。午间、收盘和研究时点独立；缺失不补零。
+当前最新有效行情：2026-11-13 midday；采集观察时间：2026-11-13T12:06:11.805146+08:00；运行号：20261113T120501405040+0800-936ad4b38f；状态：partial。
+
 
 | 内容 | 交易日 | 观察时点 | 状态 |
 |---|---|---|---|
-| [close](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/close/latest.md) | 2026-11-12 | 2026-11-12T23:47:31.777886+08:00 | partial |
-| [midday](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/midday/latest.md) | 2026-11-13 | 2026-11-13T12:06:11.805146+08:00 | partial |
-| [lifecycle](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/lifecycle/latest.md) | 2026-11-12 | 2026-11-12T21:19:22.313926+08:00 | partial |
-| [research-v2](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/research-v2/latest.md) | 2026-11-12 | 2026-11-12T21:19:24+08:00 | partial_research |
+| [close](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-12/20261112T234731777886%2B0800/latest.md) | 2026-11-12 | 2026-11-12T23:47:31.777886+08:00 | partial |
+| [midday](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-13/20261113T120501405040%2B0800-936ad4b38f/latest.md) | 2026-11-13 | 2026-11-13T12:06:11.805146+08:00 | partial |
+| [lifecycle](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/lifecycle/2026-11-12/20261112T211736-cb487b9135ab4bb7a9e130f2683a8687/latest.md) | 2026-11-12 | 2026-11-12T21:19:22.313926+08:00 | partial |
+| [research-v2](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-12/20261112T211924-cec0579f7798448298d3ad329db7d93f/latest.md) | 2026-11-12 | 2026-11-12T21:19:24+08:00 | partial_research |
 
 ## 按需读取
 
