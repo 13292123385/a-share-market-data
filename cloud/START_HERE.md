@@ -1,7 +1,7 @@
 # 腾讯云行情：GitHub中转手机读取入口
 
 本页由腾讯云采集结果自动生成，通过GitHub中转供联网读取。
-页面生成时间：2026-11-13T22:18:07.871134+08:00。这不是行情采集时间。
+页面生成时间：2026-11-13T23:18:30.081191+08:00。这不是行情采集时间。
 
 当前最新有效行情：**2026-11-13 收盘**；采集观察时间：2026-11-13T15:05:01.905143+08:00。
 运行号：20261113T152001481189+0800；完整性状态：partial。
@@ -13,7 +13,7 @@
 {
   "schema_version": 1,
   "access_path": "Tencent cloud collection -> GitHub relay -> ChatGPT",
-  "page_generated_at": "2026-11-13T22:18:07.871134+08:00",
+  "page_generated_at": "2026-11-13T23:18:30.081191+08:00",
   "latest_market": {
     "trade_date": "2026-11-13",
     "run_id": "20261113T152001481189+0800",
@@ -152,3 +152,8 @@
 - 如果联网失败、返回旧版本或内容截断，明确说明实际读到的日期或失败；不得声称已取得更新数据。
 - 本页是GitHub中转，读取它不等于直接查询腾讯云；题材评分不能冒充正式全市场强度或真实策略收益。
 - 其他独立数据流和固定入口见 [机器索引](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/index.json) 与 [状态](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/status.json)。
+
+
+## 历史日线回补查询
+
+[2026-10-26至2026-11-13：历史日线、收益回撤、行业题材及逐日完整度](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/history/daily-20261026-20261113-v1/START_HERE.md)。这是固定历史回补批次，状态partial，不是最新实时行情；历史查询请进入该入口。
