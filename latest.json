@@ -1,7 +1,7 @@
 {
   "trade_date": "2026-11-13",
-  "published_at": "2026-11-13T17:45:15.606311+08:00",
-  "fetched_at": "2026-11-13T17:37:18.723685+08:00",
+  "published_at": "2026-11-13T23:15:12.270696+08:00",
+  "fetched_at": "2026-11-13T23:12:48.314630+08:00",
   "collection_status": "partial",
   "status": "partial",
   "research_status": "limited",
@@ -71,31 +71,16 @@
   "note": "公开行情研究数据；不含私有代码、账户信息或真实策略收益。先核对trade_date和缺失项目。",
   "followup": {
     "rows": 83,
-    "prices_available": 67,
+    "prices_available": 82,
     "missing_archive_dates": [],
     "missing_price_codes": [
-      "000635",
-      "603042",
-      "603083",
-      "603135",
-      "603175",
-      "603228",
-      "603258",
-      "603289",
-      "603330",
-      "603396",
-      "603586",
-      "603725",
-      "603730",
-      "603958",
-      "605169",
-      "605222"
+      "000635"
     ],
     "note": "按交易日追踪首板后第1/2个交易日，不推断成交或策略收益"
   },
   "last_attempt": {
     "trade_date": "2026-11-13",
-    "fetched_at": "2026-11-13T17:37:18.723685+08:00",
+    "fetched_at": "2026-11-13T23:12:48.314630+08:00",
     "status": "partial",
     "collection_status": "partial",
     "collection_failures": [
