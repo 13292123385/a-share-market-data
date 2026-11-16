@@ -1,6 +1,6 @@
 {
   "trade_date": "2026-11-13",
-  "published_at": "2026-11-16T10:48:33.576350+08:00",
+  "published_at": "2026-11-16T13:31:48.225365+08:00",
   "fetched_at": "2026-11-13T23:12:48.314630+08:00",
   "collection_status": "partial",
   "status": "partial",
@@ -89,5 +89,18 @@
       "limit_up",
       "yesterday_pool"
     ]
+  },
+  "market_snapshot": {
+    "trade_date": "2026-11-13",
+    "fetched_at": "2026-11-13T23:12:48.314630+08:00",
+    "records": 5579,
+    "status": "available",
+    "source": "新浪",
+    "coverage_status": "code_coverage_matched",
+    "expected_count": 5579,
+    "all_market_verified": false,
+    "note": "日线归档中的逐股实时快照；不保证报价日期及收盘时点。null是缺失，不是零。",
+    "file": "market_snapshot.json",
+    "manifest": "market_snapshot/manifest.json"
   }
 }
