@@ -1,7 +1,7 @@
 # 全市场收盘快照
 
 交易日：2026-11-16；状态：complete；股票数：5579/5579。
-采集：2026-11-16T19:55:10.976858+08:00；完成：2026-11-16T19:55:30.917330+08:00。
+采集：2026-11-16T20:32:17.949686+08:00；完成：2026-11-16T20:35:35.248008+08:00。
 
 [完整性清单](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/latest.json) · [全部股票CSV](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/quotes.csv) · [全部股票JSON](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/snapshot.json)
 
