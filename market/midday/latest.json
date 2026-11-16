@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "trade_date": null,
+  "session": "midday",
+  "status": "missing",
+  "records": null,
+  "expected_count": null,
+  "reason": "Initial deployment occurred after the 2026-11-16 lunch break; an unsaved past midday snapshot cannot be reconstructed from afternoon prices. First scheduled capture: 2026-11-17 11:30 Asia/Shanghai.",
+  "files": {},
+  "chunks": []
+}
