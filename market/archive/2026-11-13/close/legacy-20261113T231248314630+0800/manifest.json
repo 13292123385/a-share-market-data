@@ -30,294 +30,294 @@
   },
   "files": {
     "snapshot.json": {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/snapshot.json",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/snapshot.json",
       "sha256": "af527a6bde42b927c5a7fe7da023550cec3841593944890359c47ac680490674",
       "bytes": 2992563
     },
     "quotes.csv": {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/quotes.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/quotes.csv",
       "sha256": "b41b47e33d0d38d11ff19b74a6a5a6e1990c40b35762962da4e680665e5a665c",
       "bytes": 609642
     }
   },
   "chunks": [
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-001.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-001.csv",
       "records": 100,
       "sha256": "c90db0d4e98d553cc5600c7d242b15f436975c4d3222b474b758e7a518aca792"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-002.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-002.csv",
       "records": 100,
       "sha256": "04ed93f9d9a5bea041ea491ae33103a5388beded29eb6314fcb97fa9f3d0ff4c"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-003.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-003.csv",
       "records": 100,
       "sha256": "afa0839c1d27eade8551a9480271b5156e8093001e816e7a4f9c520ae490500e"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-004.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-004.csv",
       "records": 100,
       "sha256": "ceab09ec86ebc97ce6ca5bd8ec631bf3329ccbd49bdd249387c51f5fb9a6edf4"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-005.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-005.csv",
       "records": 100,
       "sha256": "8b41b268797d1c895f696cd27addd687521816aa8f915c4dff3a2b7f0370ae6f"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-006.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-006.csv",
       "records": 100,
       "sha256": "aa4d8ceb12ee6f8c01a86f6617b6b9680aacb13fbc9e0d3022c21244e369816d"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-007.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-007.csv",
       "records": 100,
       "sha256": "e39a52845bf1bc0f63ae5ca4fb31bead8d8c1fa84588b08d17312583abe3ab21"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-008.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-008.csv",
       "records": 100,
       "sha256": "3a098b536ea188ce36c5edf3ecc38b2a524d803ac57fcc9e4f7a902742b72b38"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-009.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-009.csv",
       "records": 100,
       "sha256": "7f7576c7c29f310bdef27e9d95c1e03fa718f260e4179d4d417c20fc5acf7bc0"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-010.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-010.csv",
       "records": 100,
       "sha256": "7026688b5d50e217ed27f370d3ca2c76c42eaf248760373ff70c2978fc124a0b"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-011.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-011.csv",
       "records": 100,
       "sha256": "2a6c1694cd9a554dd8d5aead383146847554ec76115f16628fae98ab220d918c"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-012.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-012.csv",
       "records": 100,
       "sha256": "b9f5d65dc490d21c003040831ebd399e2db1e5c8293a15f3144ed62b1e6d4fe7"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-013.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-013.csv",
       "records": 100,
       "sha256": "3b9c971a372a5e244cb8e4b6ae285625af5afed08a136110e1e5416155e578bb"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-014.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-014.csv",
       "records": 100,
       "sha256": "a84da375de8d5b024f9f96a6fa9d8749679b6f6f738fc35b6129a5718bf39ece"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-015.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-015.csv",
       "records": 100,
       "sha256": "dd535de616b7e0d2010188f1f5a3cb2f5e30ea236883717328ab48dff02c5210"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-016.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-016.csv",
       "records": 100,
       "sha256": "3aa373954738d8c0bacaccf7337de0d36c3b3581165e721274bc8c0753d5a596"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-017.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-017.csv",
       "records": 100,
       "sha256": "be011e9c09155c13c56b7ba1bb7c102c8d02b0b88ed58b6a6e380b8828e39685"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-018.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-018.csv",
       "records": 100,
       "sha256": "86d32359b490a8b9201a2136b1ce52e8b3bf284e14711a60088e660a5d3e86d1"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-019.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-019.csv",
       "records": 100,
       "sha256": "5168a7bb8c61485d9271a6996dbfc28a243651d25a359c22a0d1998fa2adde35"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-020.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-020.csv",
       "records": 100,
       "sha256": "65dd9ae6cb49e08e71dd0c083fc8c2909973ea6dcdc412879f2b6a92f7426ddc"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-021.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-021.csv",
       "records": 100,
       "sha256": "9723a73bfb21835486b22be9383a70b6da8e7d38df64a8017769037e6bdaa8f7"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-022.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-022.csv",
       "records": 100,
       "sha256": "d713b1ccc9075f7a41d651eaac9ec26f3108839805b876a361fd6ff18aafd7ea"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-023.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-023.csv",
       "records": 100,
       "sha256": "7c5b43a9402424f054c3b4c01f226673757e3fb7130159e717001fd1cdc57e88"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-024.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-024.csv",
       "records": 100,
       "sha256": "ef63c23e295ee1be395ddfe752ceb9f7aedfe328d007c66531167723502d34a5"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-025.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-025.csv",
       "records": 100,
       "sha256": "8c4c8cc4f587d2a11e0bcacf582678a5bc52647995b89c56ee4d0c4d87deeb68"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-026.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-026.csv",
       "records": 100,
       "sha256": "50245678ad7cb77b1029eeeede946c512c6b7cd43fcab31b8ee36edef4e2f6f0"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-027.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-027.csv",
       "records": 100,
       "sha256": "5246bb550ff79e88f4e6b605603664272f45fe79b2294ec65a6b36bf3272ba8c"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-028.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-028.csv",
       "records": 100,
       "sha256": "89a5e88b2f14daf0d3a33e8c039dcd580dd908a99ad332d764668a335304900a"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-029.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-029.csv",
       "records": 100,
       "sha256": "37e949564fb4d7348067496946adc84538dc623512c3ed55ac70145253e455bc"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-030.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-030.csv",
       "records": 100,
       "sha256": "8a8538986649974178de103a21f5acda12f5b4a9a68553beedeb241f28868c6c"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-031.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-031.csv",
       "records": 100,
       "sha256": "8b5245bde18d5a172cb241ef9551bc81d081ff8be6ffb3c2aadf36c32b753af4"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-032.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-032.csv",
       "records": 100,
       "sha256": "150c6d5dc3d3849a581039b60b91a10ad349ac8869f92f40138ab0021f311e93"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-033.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-033.csv",
       "records": 100,
       "sha256": "5fa47835b577bcdea94a6ad2e0fa18b61e9e598663e318507d87c06c2e29d52d"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-034.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-034.csv",
       "records": 100,
       "sha256": "64cccac43d066b3a650a484eaa0c4c41f153f69eee9cde602202efbe9c9a7dd0"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-035.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-035.csv",
       "records": 100,
       "sha256": "0425af6a64cff8b6391b632688c9f579a9774b20fa6d66c3bafffb6f975d746a"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-036.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-036.csv",
       "records": 100,
       "sha256": "ce247c7fb6d57864e405697c23eadb8743eb3a373542d40a00c51343ba99d4c3"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-037.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-037.csv",
       "records": 100,
       "sha256": "420eebc747c1a5c87f5341f20485419ebde9df92b35588d7541c72fd05e9673f"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-038.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-038.csv",
       "records": 100,
       "sha256": "d990ba33303a6c4f169db5acbd7fadc1b74540c8a6ea525180235240016c245a"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-039.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-039.csv",
       "records": 100,
       "sha256": "bd4a6daa90e933c1a1c157d8c977ef1da0b66a559752c8d7d06366ebb1af3cad"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-040.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-040.csv",
       "records": 100,
       "sha256": "eabae1b690b3883a04e87cd82dfcaaddc2fc041a74da7f7ad5fdb1cd9d6cb7ef"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-041.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-041.csv",
       "records": 100,
       "sha256": "a1393cf93d1ca536c37f41b10d09125b3051b50ba2985bc08384b64d38fa5a20"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-042.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-042.csv",
       "records": 100,
       "sha256": "287da1689ab1007168cd9dc41f6dcbbd1e3966a64d3b8761a4269e1e508fce6d"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-043.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-043.csv",
       "records": 100,
       "sha256": "e3c2f71435c2bfbdcdd64c38a881c3e011df35a4f2a5b6e4fb503643226e8908"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-044.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-044.csv",
       "records": 100,
       "sha256": "aa46f0abdaf9e86eb860ac1b3c51b4e85f341c70195d43b1717356ecd154c428"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-045.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-045.csv",
       "records": 100,
       "sha256": "bdbad9b367b286d1a446bbc681a8764ca35f6d6c682685f244964ed0bfc5888e"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-046.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-046.csv",
       "records": 100,
       "sha256": "ddfa629bcf538adec85137a8679c381d777976e7e7c1b48a07c10c952b24feab"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-047.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-047.csv",
       "records": 100,
       "sha256": "6d92b1ca62c351aeb377f101c119fbf4c8dbc29abc4d30502780e3b297217290"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-048.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-048.csv",
       "records": 100,
       "sha256": "ab420cb7044bedaebe5d25956e9df184b3f5e3346a9a95aca8f9237421591d2c"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-049.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-049.csv",
       "records": 100,
       "sha256": "a8eb148f78ed675abe27bf52123832616bc1dbe90fa4fd09fbc8bdac36caf0cd"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-050.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-050.csv",
       "records": 100,
       "sha256": "0fdc90df79ee844d17f8b83b677ba4b9d0a4dc7cd42b76f997dbc8bcea9c3f14"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-051.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-051.csv",
       "records": 100,
       "sha256": "f4f104a61c0b520c568d6a4078b25cb77a60a0e380c9dfc1902ca3190e8cddf7"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-052.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-052.csv",
       "records": 100,
       "sha256": "20b99185e9b5d1ac377601a6d9238fb6b48e558eb1a3ec384aeafb2791e5aeb3"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-053.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-053.csv",
       "records": 100,
       "sha256": "4aa93bfe506efb5057049bf2b8b279afcba9607ffe4379b9ccd1c049bf2b227e"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-054.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-054.csv",
       "records": 100,
       "sha256": "0007365086c6db7ebde56f56e9758543cf2fa9d4b0796da04fdaa3c5118846c1"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-055.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-055.csv",
       "records": 100,
       "sha256": "faa4c44c4f92305df3b84d898c890944224a1309fcf1fd83a4b36abadfd78344"
     },
     {
-      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-056.csv",
+      "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/archive/2026-11-13/close/legacy-20261113T231248314630+0800/chunks/part-056.csv",
       "records": 79,
       "sha256": "88666be6531f54867c5f4afb19f729d9491098248e63e749f52e3a9a5b90ebd9"
     }
