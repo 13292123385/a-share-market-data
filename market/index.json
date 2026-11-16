@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "midday": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/latest.json",
+  "close": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/latest.json",
+  "note": "午盘11:30后、收盘15:00后独立采集。先核对日期和完整性；超过午休时间不能补造午盘。"
+}
