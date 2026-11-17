@@ -4,9 +4,9 @@
   "universe_label": "沪深主板A股",
   "trade_date": "2026-11-17",
   "session": "close",
-  "run_id": "20261117T194643391141+0800",
-  "fetched_at": "2026-11-17T19:46:43.391141+08:00",
-  "finished_at": "2026-11-17T19:46:48.093182+08:00",
+  "run_id": "20261117T202030668176+0800",
+  "fetched_at": "2026-11-17T20:20:30.668176+08:00",
+  "finished_at": "2026-11-17T20:20:44.044307+08:00",
   "status": "complete",
   "records": 3194,
   "expected_count": 3194,
@@ -65,12 +65,12 @@
   "files": {
     "snapshot.json": {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/snapshot.json",
-      "sha256": "c9ed165703b8fe657c39b81d0ec8d30564a227425118e8d9fb61fc2918147338",
+      "sha256": "c887ddcd8f4d828e6c0e2eebaec8354a58c11a9efd24b1f137c7c4434ab0ff74",
       "bytes": 1795895
     },
     "quotes.csv": {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/quotes.csv",
-      "sha256": "d8069469f552efdc0fc91f2c8b4df8eb17471c83d66ef78f1c795553d4674246",
+      "sha256": "212a1164fa10234128035e99974ae5d6cc5b49f711417df119335acc584ea75a",
       "bytes": 501015
     }
   },
@@ -78,7 +78,7 @@
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-001.csv",
       "records": 100,
-      "sha256": "a85a4c6cc9c5f6a306eb8af91b92bd787b780777fff9987b23e00e8b9ecb3058"
+      "sha256": "6389ad5f5d65bf3221107d59e723ed0b37056a191292bcdb2dfb62a28a7f6937"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-002.csv",
@@ -188,7 +188,7 @@
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-023.csv",
       "records": 100,
-      "sha256": "dcd08d5a77b99f6a07ac227fe186040d0faff4bb95626f6a50e5b78ae984bd0f"
+      "sha256": "16fdcaa7769dca846ab02cd7afdcab7beed30fdd5d004483079380bfdc7675c4"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-024.csv",
@@ -233,7 +233,7 @@
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-032.csv",
       "records": 94,
-      "sha256": "3e3187fcab8235e7b127b699898e73fbadc84a3561d0bfec024dc14d984f564e"
+      "sha256": "1f956ed9012a2ca35ff5551c7adbebb9e4516aa2e423fe27ee5a8444086e4d0f"
     }
   ],
   "reading_instructions": "先检查trade_date、session、status、coverage和quality。下载snapshot.json或quotes.csv读取全部股票；网页工具若截断，按chunks逐片读取并核对条数与SHA256。缺失/null不可当作零；partial不可称为完整快照。午盘与收盘独立保存。"
