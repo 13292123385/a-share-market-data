@@ -1,6 +1,6 @@
 # 腾讯云行情GitHub中转统一入口
 
-转接页面生成时间：2026-11-17T18:17:39.662564+08:00（不是行情采集时间）
+转接页面生成时间：2026-11-17T18:33:55.498640+08:00（不是行情采集时间）
 手机普通ChatGPT优先读取 [一次读取入口](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/START_HERE.md)。
 先核对下表各自交易日。午间、收盘和研究时点独立；缺失不补零。
 当前最新有效行情：2026-11-17 close；采集观察时间：2026-11-17T15:05:01.286756+08:00；运行号：20261117T150501286756+0800；状态：partial。
@@ -10,8 +10,8 @@
 |---|---|---|---|
 | [close](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-17/20261117T150501286756%2B0800/latest.md) | 2026-11-17 | 2026-11-17T15:05:01.286756+08:00 | partial |
 | [midday](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-17/20261117T120501233850%2B0800-e34279e428/latest.md) | 2026-11-17 | 2026-11-17T12:07:11.806249+08:00 | partial |
-| [lifecycle](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/lifecycle/2026-11-16/20261116T212002-eba72beb151c4a3ebb6b687c45531ac3/latest.md) | 2026-11-16 | 2026-11-16T21:20:47.015249+08:00 | partial |
-| [research-v2](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-16/20261116T212049-80150f2c0e7a4077b2ea8eda20e2218d/latest.md) | 2026-11-16 | 2026-11-16T21:20:49+08:00 | partial_research |
+| [lifecycle](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/lifecycle/2026-11-17/20261117T182001-cd486d40f1cb403d92b60421d3c29ce7/latest.md) | 2026-11-17 | 2026-11-17T18:31:16.014238+08:00 | partial |
+| [research-v2](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-17/20261117T183121-01c5a14c1dd448a0931e79ad0d52ea7f/latest.md) | 2026-11-17 | 2026-11-17T18:31:21+08:00 | partial_research |
 
 ## 按需读取
 
