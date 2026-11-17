@@ -1,7 +1,7 @@
-# 全市场收盘快照
+# 沪深主板A股收盘快照
 
-交易日：2026-11-16；状态：complete；股票数：5579/5579。
-采集：2026-11-16T20:32:17.949686+08:00；完成：2026-11-16T20:35:35.248008+08:00。
+交易日：2026-11-17；状态：complete；股票数：3194/3194。
+采集：2026-11-17T19:46:43.391141+08:00；完成：2026-11-17T19:46:48.093182+08:00。
 
 [完整性清单](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/latest.json) · [全部股票CSV](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/quotes.csv) · [全部股票JSON](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/snapshot.json)
 
@@ -40,28 +40,4 @@
 - [29（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-029.csv)
 - [30（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-030.csv)
 - [31（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-031.csv)
-- [32（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-032.csv)
-- [33（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-033.csv)
-- [34（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-034.csv)
-- [35（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-035.csv)
-- [36（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-036.csv)
-- [37（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-037.csv)
-- [38（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-038.csv)
-- [39（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-039.csv)
-- [40（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-040.csv)
-- [41（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-041.csv)
-- [42（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-042.csv)
-- [43（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-043.csv)
-- [44（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-044.csv)
-- [45（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-045.csv)
-- [46（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-046.csv)
-- [47（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-047.csv)
-- [48（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-048.csv)
-- [49（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-049.csv)
-- [50（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-050.csv)
-- [51（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-051.csv)
-- [52（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-052.csv)
-- [53（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-053.csv)
-- [54（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-054.csv)
-- [55（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-055.csv)
-- [56（79只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-056.csv)
+- [32（94只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/chunks/part-032.csv)
