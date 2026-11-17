@@ -1,7 +1,7 @@
 # 全市场午盘快照
 
 交易日：2026-11-17；状态：complete；股票数：5580/5580。
-采集：2026-11-17T12:18:50.775864+08:00；完成：2026-11-17T12:19:12.145666+08:00。
+采集：2026-11-17T12:30:39.394573+08:00；完成：2026-11-17T12:31:33.219714+08:00。
 
 [完整性清单](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/latest.json) · [全部股票CSV](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/quotes.csv) · [全部股票JSON](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/snapshot.json)
 
