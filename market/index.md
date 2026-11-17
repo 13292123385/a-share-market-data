@@ -1,4 +1,4 @@
-# 全市场快照读取入口
+# 沪深主板快照读取入口
 
 - [午盘全部股票](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/index.md)；[完整性清单](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/latest.json)
 - [收盘全部股票](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/index.md)；[完整性清单](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/latest.json)
