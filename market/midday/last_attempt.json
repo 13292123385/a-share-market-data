@@ -2,11 +2,11 @@
   "schema_version": 1,
   "universe": "cn_main_board",
   "universe_label": "沪深主板A股",
-  "trade_date": "2026-11-17",
+  "trade_date": "2026-11-18",
   "session": "midday",
-  "run_id": "20261117T123039394573+0800-main",
-  "fetched_at": "2026-11-17T12:30:39.394573+08:00",
-  "finished_at": "2026-11-17T12:31:33.219714+08:00",
+  "run_id": "20261118T113110445030+0800",
+  "fetched_at": "2026-11-18T11:31:10.445030+08:00",
+  "finished_at": "2026-11-18T11:31:35.664264+08:00",
   "status": "complete",
   "records": 3194,
   "expected_count": 3194,
@@ -60,180 +60,180 @@
     "涨跌幅": "%",
     "最新价": "元/股"
   },
-  "source_run_id": "20261117T123039394573+0800",
-  "scope_adjusted_at": "2026-11-17T13:13:36.658989+08:00",
+  "source_run_id": null,
+  "scope_adjusted_at": null,
   "files": {
     "snapshot.json": {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/snapshot.json",
-      "sha256": "492431a40f43de57dad479265836c2059b2ea8395a25f6567867e27f1f392014",
-      "bytes": 1792335
+      "sha256": "90e496f46dd3f5a8e9820b036cb0353e08a9a8b8280a5c9e16d30857df7a9694",
+      "bytes": 1794753
     },
     "quotes.csv": {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/quotes.csv",
-      "sha256": "69c8021499b5af449e6538e5cce2e82070bcfa2c213f6736508ea913e9b175de",
-      "bytes": 497395
+      "sha256": "9febfabfaa8a57f8126c62f2962fda32e97bf8a5d18af5425abee22f16f2272b",
+      "bytes": 499872
     }
   },
   "chunks": [
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-001.csv",
       "records": 100,
-      "sha256": "262066a7a179c8287293a9b239cec9eac258df38e9a9225dd0dbb7470d0a5497"
+      "sha256": "0ffce3635114dc51a586dcfa8fe6c417dbf81870333deffb4d2d368f1286a345"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-002.csv",
       "records": 100,
-      "sha256": "411bf8e36d98d393b3f17a2aecbc8b603432e9083411e9e81f8dad2dad1ae71d"
+      "sha256": "2f8162558614d78cc4b47a9d7a62e8a3a41ff4817948468d33f5de9fc830c35e"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-003.csv",
       "records": 100,
-      "sha256": "769c0565f283d19db607bbf63f18b4ba1a92b939ff27b7af991af0b183fe9cda"
+      "sha256": "ce86dd9a579e7b6ac0345bd21a6fbbddb7ec151fabc40113e3a432ba0ac0d347"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-004.csv",
       "records": 100,
-      "sha256": "2a64ed819581af3bb39858e82934f3a72d255d1c233a0bd36a02a14b73b872da"
+      "sha256": "fba689a72ad7f2a34fe6eb4ceba606ced2173e76967962f31cfcb1f554acce43"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-005.csv",
       "records": 100,
-      "sha256": "c9a5de65f1d7e0c8c3bdab2fd61fa5027d09a54057011fe7b2815fe7af4bdbe8"
+      "sha256": "1a1a04a301075a1612bcc61ece4189d367c029fe9cb0d9c6f2eb0937258e2941"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-006.csv",
       "records": 100,
-      "sha256": "2d2dc336a9a02b8ada1257e270a9bf8db9664ff55ac410898b2349397c68ee19"
+      "sha256": "13a6a506f97a96e41c6d90afde3856edc5244a0795761977e4a4c3a59cd63944"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-007.csv",
       "records": 100,
-      "sha256": "a5f2035a7d8703792fefbabbd27a36f7f50059d8447af27ea4d316f02859790e"
+      "sha256": "4ecfa647f29f2548d741cdcea451670e03fb2e8bed0b802db155c88a727fce63"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-008.csv",
       "records": 100,
-      "sha256": "5ffc72800283433fd53f72ee948e2587168d39208b1c424c15da5ad8ef90ba84"
+      "sha256": "644c0bf8c5369291ed935f28f596c3cb2ec021cd861bd57d64c08d41b4f74e87"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-009.csv",
       "records": 100,
-      "sha256": "b6c21a3407c25d275ed6608474177effd7fe213cf98fada7761937f11c95a233"
+      "sha256": "c1fcfee0620aa55f0072c486377f64b2d1390937cc37e2905c8b64981ba89e4b"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-010.csv",
       "records": 100,
-      "sha256": "b3206ec57ed8b6ec074460383d8585ee805a300f334c09515bebf82071066a17"
+      "sha256": "dc3ab3329315aea805748ca80a296b4445fcd67a68fb8cf067521320fce81c25"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-011.csv",
       "records": 100,
-      "sha256": "0500e0edb1503c9d00d16a25dbe5935abccf4e7116a4593333dec6693f2e7c20"
+      "sha256": "f257250eb1b9745e6227928d6ddda3df08f886bfa18d3cac3f03f64b9155d371"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-012.csv",
       "records": 100,
-      "sha256": "a12c28e6e4507f52effca018b96eed456acd230be7829300019f0ad8cc8f0eb4"
+      "sha256": "5653f35a6fdc9d05830d24e2ab595c398b7983975344e5b2f868770651e8c812"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-013.csv",
       "records": 100,
-      "sha256": "a92c36db84f3634a5603456111dc682f5aec6b656ce18d828c75e861f5fc8952"
+      "sha256": "f3d54843d470a35d949e15f1fb0e1874544c8eef4162842d9572c742c42ae65d"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-014.csv",
       "records": 100,
-      "sha256": "cc6ee41bf343f48ed7eb55015edcd2770a5679a1667f96a0bdb85856fe76848c"
+      "sha256": "5c942a4c371ef75cdef26ca5fc7e89575255c45b4d598e64d66ccd9d903b3f7b"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-015.csv",
       "records": 100,
-      "sha256": "c3f438f895e4ffa8e2ebf5fdfa260a95aeab5dcfaa9ee8b263a64e3824e1ae3f"
+      "sha256": "bb3b3c489693ed7beaff9081b4e6dd1b033aef432dbbbe2219390a6c3498ecb6"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-016.csv",
       "records": 100,
-      "sha256": "258268f69535b10ea37b60fee63a5b0c44967e7cd6c6863abc054f77e9967e9d"
+      "sha256": "536c0a65811aaca807ddd2ec430dd96f8cd72744027eb7015c72df7a4d6d0270"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-017.csv",
       "records": 100,
-      "sha256": "33935c1fbd20c5b237487364e95dd12b00ce3f49a2e5a9a4e61ec70118f52e4b"
+      "sha256": "8751e75103622479e08df34bc639e8986a4f64ec096fee2bad6b684fdf4ae0c7"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-018.csv",
       "records": 100,
-      "sha256": "450ef620a4cf285f2984ab7ac0cec9cd475f5c97ad45d565716e6116946342c7"
+      "sha256": "c0ece726c82f22fcce1dd7296cf28cbe1dffcc831c7f39dcaed5b6a4312613ef"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-019.csv",
       "records": 100,
-      "sha256": "2088db2e27e75d113a3815456e7ef144bab59cc6237d4814091827b786db7226"
+      "sha256": "3db7b4761cf5333039fc00b692479cc62e632ebfddd34b09320a0666ec07b5ff"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-020.csv",
       "records": 100,
-      "sha256": "f0a0f4399a9c3481484bf469e186d9b9517ad31bc92b86f7f2487012d47905cf"
+      "sha256": "34b92a67aa08aadab95033316725f769da5ccda7072b230939ab5ec80a63c56a"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-021.csv",
       "records": 100,
-      "sha256": "231a5a799f6f11ee57b93b355ae1e758bf17bfe692fbaf95cbd512b5d3deeb1c"
+      "sha256": "976152ce165c77958671ab4859d339fbb85f0839432785d0a2a63586a8f324ea"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-022.csv",
       "records": 100,
-      "sha256": "6454357beb281d328f071f8550535fccb6e9157c8e1ddabe998b65928c71a11d"
+      "sha256": "fc62291f68548aeb3e0ebd1d50913969515ba9d2a82d1b81eb66bfd44b520208"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-023.csv",
       "records": 100,
-      "sha256": "a7d93758a4ad020e858d6e205b9a53d95c02ec6374c06a044a8a797c23fe819c"
+      "sha256": "e615c692ce5c93c87edd3b584c5b5459f727ab6530df2bb6b47da9e0a80d221c"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-024.csv",
       "records": 100,
-      "sha256": "c18cf661a870bb04f2547446123560fcd0681a2dd9faded925e80c11e2f84e03"
+      "sha256": "d7133c50864aa90c6aecf711fa26d2d79783fedb662bcdd89f8adffcfd01373d"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-025.csv",
       "records": 100,
-      "sha256": "761ce07e74d17e183c3a4ce815ac20438a6f602bf74f1736b8dcffa3641148ee"
+      "sha256": "0d3c76fdc985d1e75e051fb76aaee396175737dd4bc223accb8a6a71efc8437b"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-026.csv",
       "records": 100,
-      "sha256": "1447d596b2b773d49d5575f1d6718b27788d340de515de021abf7ebdaa9d7093"
+      "sha256": "1d32b4aa86aec72836fd839be995792453b69c85d19cc5bfab1b3c661abb06ef"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-027.csv",
       "records": 100,
-      "sha256": "e03de9c08ec600ea7c77afd73afd8cd30b786e48d018eb4d3b37a6b8562822aa"
+      "sha256": "9bac2e56ff2c891522db378104d988d98b056e5e507e28a4d4e186af6e472066"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-028.csv",
       "records": 100,
-      "sha256": "d90d9a85d0f4afc10fc83f0d40f728fb162933e6293538f50dd4368b6f124778"
+      "sha256": "e88c0a664bcdbee611c0847ef10460958ed8ebf57459d236c21829076cd125c3"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-029.csv",
       "records": 100,
-      "sha256": "dea3062c9ed30245247ced8aac93ed0882c7498949cea053423eeb5486b78e6d"
+      "sha256": "f96d10a2f6eb0e6d5ebed7e5b036eeae189166ca8984aba71dd1933537988162"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-030.csv",
       "records": 100,
-      "sha256": "de91c8ccbb6f162983d30aa383edc1cd1c4e9b564e8bef1b9996226b0beda791"
+      "sha256": "376fd966efb516a9d72cfaef2a44b4a124455bba542010ff5bedaba589f67339"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-031.csv",
       "records": 100,
-      "sha256": "63e3157757e33630b0caed8c8a676314591842f237404df8e226043bd542dacc"
+      "sha256": "5aa9c7a2db24db36aca436821d66e2a843750df2cee213eeb58fca515903aedc"
     },
     {
       "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-032.csv",
       "records": 94,
-      "sha256": "0782e29957c582a189915f4285b026a4f54025cb4cf3d9633ba822b57554d2a4"
+      "sha256": "356e7e042546c335c4536cc930d81be597689f458f2fc1e335d86cfcd8fd8c66"
     }
   ],
   "reading_instructions": "先检查trade_date、session、status、coverage和quality。下载snapshot.json或quotes.csv读取全部股票；网页工具若截断，按chunks逐片读取并核对条数与SHA256。缺失/null不可当作零；partial不可称为完整快照。午盘与收盘独立保存。"
