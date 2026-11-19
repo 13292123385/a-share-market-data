@@ -1,7 +1,7 @@
 # 沪深主板A股收盘快照
 
-交易日：2026-11-18；状态：complete；股票数：3194/3194。
-采集：2026-11-18T15:02:22.008800+08:00；完成：2026-11-18T15:02:35.982035+08:00。
+交易日：2026-11-19；状态：complete；股票数：3194/3194。
+采集：2026-11-19T15:00:58.530527+08:00；完成：2026-11-19T15:01:10.874324+08:00。
 
 [完整性清单](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/latest.json) · [全部股票CSV](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/quotes.csv) · [全部股票JSON](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/close/snapshot.json)
 
