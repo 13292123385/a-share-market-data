@@ -1,7 +1,7 @@
 # 腾讯云行情：GitHub中转手机读取入口
 
 本页由腾讯云采集结果自动生成，通过GitHub中转供联网读取。
-页面生成时间：2026-11-19T18:18:03.767371+08:00。这不是行情采集时间。
+页面生成时间：2026-11-19T18:23:50.730533+08:00。这不是行情采集时间。
 
 当前最新有效行情：**2026-11-19 收盘**；采集观察时间：2026-11-19T15:05:01.205909+08:00。
 运行号：20261119T150501205909+0800；完整性状态：partial。
@@ -13,7 +13,7 @@
 {
   "schema_version": 1,
   "access_path": "Tencent cloud collection -> GitHub relay -> ChatGPT",
-  "page_generated_at": "2026-11-19T18:18:03.767371+08:00",
+  "page_generated_at": "2026-11-19T18:23:50.730533+08:00",
   "latest_market": {
     "trade_date": "2026-11-19",
     "run_id": "20261119T150501205909+0800",
@@ -83,16 +83,16 @@
     "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-19/20261119T150501205909%2B0800/stocks/600000.json"
   },
   "themes": {
-    "trade_date": "2026-11-18",
-    "run_id": "20261118T212053-d63f52e770f5406ab98c5a0e9b796de6",
+    "trade_date": "2026-11-19",
+    "run_id": "20261119T182203-beace386be40466e850755dd02bd2806",
     "status": "partial_research",
     "ranking_scope": "dated_partial_active_associations",
-    "observed_at": "2026-11-18T21:20:53+08:00",
+    "observed_at": "2026-11-19T18:22:03+08:00",
     "strength_definition": "0–100的样本观察活跃度，不是已独立核验的正式全市场题材强度。",
     "formal_full_market_strength_available": false,
     "missing_data": [
       "完整历史题材成分未知，不能用当前成员倒填；正式全市场强度与相对市场收益为空",
-      "40日全主板轻量行情仅有13/40日已存快照，快照字段未全部独立核验",
+      "40日全主板轻量行情仅有14/40日已存快照，快照字段未全部独立核验",
       "题材上涨广度、全成分成交份额及全成分炸板数缺少完整分母",
       "第三方历史复盘可能修订，不是当时已知快照，不能用于无偏信号回测",
       "真实业务和新催化未独立验证，C席位可空缺；带动关系待确认",
@@ -104,10 +104,10 @@
       "A": {
         "theme_id": "机器人",
         "theme_name": "机器人",
-        "as_of": "2026-11-18",
+        "as_of": "2026-11-19",
         "rank": 1,
-        "activity_score": 99.966465,
-        "composite_score": 99.966465,
+        "activity_score": 99.992904,
+        "composite_score": 99.992904,
         "full_score": null,
         "score_kind": "partial_observed_activity",
         "seat_status": "provisional_observation",
@@ -116,10 +116,10 @@
       "B": {
         "theme_id": "游戏",
         "theme_name": "游戏",
-        "as_of": "2026-11-18",
+        "as_of": "2026-11-19",
         "rank": 2,
-        "activity_score": 79.860317,
-        "composite_score": 79.860317,
+        "activity_score": 76.503458,
+        "composite_score": 76.503458,
         "full_score": null,
         "score_kind": "partial_observed_activity",
         "seat_status": "provisional_observation",
@@ -127,7 +127,7 @@
       },
       "C": null
     },
-    "archive_url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-18/20261118T212053-d63f52e770f5406ab98c5a0e9b796de6/"
+    "archive_url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-19/20261119T182203-beace386be40466e850755dd02bd2806/"
   }
 }
 ```
@@ -140,8 +140,8 @@
 - [涨停池](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-19/20261119T150501205909%2B0800/limit_up.json)；[炸板池](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-19/20261119T150501205909%2B0800/broken.json)；[跌停池](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-19/20261119T150501205909%2B0800/limit_down.json)。
 - [首板候选](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-19/20261119T150501205909%2B0800/first_board_candidates.json)；[后续跟踪](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-19/20261119T150501205909%2B0800/followup.json)；[晋级观察](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-19/20261119T150501205909%2B0800/promotion.json)。
 - 全市场逐股表：https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-19/20261119T150501205909%2B0800/market_quotes.json。该文件较大，问个股优先读取单股文件。
-- [题材评分与核心股：2026-11-18](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-18/20261118T212053-d63f52e770f5406ab98c5a0e9b796de6/latest.json)；[说明](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-18/20261118T212053-d63f52e770f5406ab98c5a0e9b796de6/latest.md)。
-- [长期跟踪与题材关联：2026-11-18](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/lifecycle/2026-11-18/20261118T212001-be81bd4a0eba4419a0e7e1b5e7c277e1/latest.json)；[说明](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/lifecycle/2026-11-18/20261118T212001-be81bd4a0eba4419a0e7e1b5e7c277e1/latest.md)。
+- [题材评分与核心股：2026-11-19](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-19/20261119T182203-beace386be40466e850755dd02bd2806/latest.json)；[说明](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-19/20261119T182203-beace386be40466e850755dd02bd2806/latest.md)。
+- [长期跟踪与题材关联：2026-11-19](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/lifecycle/2026-11-19/20261119T182001-80c13f101e80474e87d836f58f068739/latest.json)；[说明](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/lifecycle/2026-11-19/20261119T182001-80c13f101e80474e87d836f58f068739/latest.md)。
 
 ## 读取规则
 
