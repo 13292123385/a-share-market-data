@@ -1,6 +1,6 @@
 {
   "trade_date": "2026-11-20",
-  "published_at": "2026-11-22T07:24:32.563989+08:00",
+  "published_at": "2026-11-22T14:57:45.949719+08:00",
   "fetched_at": "2026-11-20T20:54:29.719750+08:00",
   "collection_status": "complete",
   "status": "complete",
@@ -82,8 +82,8 @@
     "note": "按交易日追踪首板后第1/2个交易日，不推断成交或策略收益"
   },
   "last_attempt": {
-    "trade_date": "2026-10-23",
-    "fetched_at": "2026-11-22T07:23:20.862653+08:00",
+    "trade_date": "2026-10-26",
+    "fetched_at": "2026-11-22T14:56:39.869122+08:00",
     "status": "partial",
     "collection_status": "partial",
     "collection_failures": [
