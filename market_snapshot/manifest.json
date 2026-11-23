@@ -1,11 +1,11 @@
 {
-  "trade_date": "2026-11-20",
-  "fetched_at": "2026-11-20T20:54:29.719750+08:00",
-  "records": 5580,
+  "trade_date": "2026-11-23",
+  "fetched_at": "2026-11-23T20:56:00.186942+08:00",
+  "records": 5581,
   "status": "available",
   "source": "新浪",
   "coverage_status": "code_coverage_matched",
-  "expected_count": 5580,
+  "expected_count": 5581,
   "all_market_verified": false,
   "note": "日线归档中的逐股实时快照；不保证报价日期及收盘时点。null是缺失，不是零。",
   "fields": [
@@ -40,336 +40,336 @@
       "file": "market_snapshot/part-001.json",
       "records": 100,
       "first_code": "920000",
-      "last_code": "920149"
+      "last_code": "920146"
     },
     {
       "file": "market_snapshot/part-002.json",
       "records": 100,
-      "first_code": "920152",
-      "last_code": "920374"
+      "first_code": "920149",
+      "last_code": "920371"
     },
     {
       "file": "market_snapshot/part-003.json",
       "records": 100,
-      "first_code": "920375",
-      "last_code": "920779"
+      "first_code": "920374",
+      "last_code": "920770"
     },
     {
       "file": "market_snapshot/part-004.json",
       "records": 100,
-      "first_code": "920781",
-      "last_code": "600060"
+      "first_code": "920779",
+      "last_code": "600059"
     },
     {
       "file": "market_snapshot/part-005.json",
       "records": 100,
-      "first_code": "600061",
-      "last_code": "600191"
+      "first_code": "600060",
+      "last_code": "600189"
     },
     {
       "file": "market_snapshot/part-006.json",
       "records": 100,
-      "first_code": "600192",
-      "last_code": "600329"
+      "first_code": "600191",
+      "last_code": "600328"
     },
     {
       "file": "market_snapshot/part-007.json",
       "records": 100,
-      "first_code": "600330",
-      "last_code": "600480"
+      "first_code": "600329",
+      "last_code": "600479"
     },
     {
       "file": "market_snapshot/part-008.json",
       "records": 100,
-      "first_code": "600481",
-      "last_code": "600600"
+      "first_code": "600480",
+      "last_code": "600598"
     },
     {
       "file": "market_snapshot/part-009.json",
       "records": 100,
-      "first_code": "600601",
-      "last_code": "600727"
+      "first_code": "600600",
+      "last_code": "600726"
     },
     {
       "file": "market_snapshot/part-010.json",
       "records": 100,
-      "first_code": "600728",
-      "last_code": "600847"
+      "first_code": "600727",
+      "last_code": "600846"
     },
     {
       "file": "market_snapshot/part-011.json",
       "records": 100,
-      "first_code": "600848",
-      "last_code": "600996"
+      "first_code": "600847",
+      "last_code": "600995"
     },
     {
       "file": "market_snapshot/part-012.json",
       "records": 100,
-      "first_code": "600997",
-      "last_code": "601333"
+      "first_code": "600996",
+      "last_code": "601330"
     },
     {
       "file": "market_snapshot/part-013.json",
       "records": 100,
-      "first_code": "601336",
-      "last_code": "601908"
+      "first_code": "601333",
+      "last_code": "601901"
     },
     {
       "file": "market_snapshot/part-014.json",
       "records": 100,
-      "first_code": "601916",
-      "last_code": "603081"
+      "first_code": "601908",
+      "last_code": "603080"
     },
     {
       "file": "market_snapshot/part-015.json",
       "records": 100,
-      "first_code": "603082",
-      "last_code": "603203"
+      "first_code": "603081",
+      "last_code": "603202"
     },
     {
       "file": "market_snapshot/part-016.json",
       "records": 100,
-      "first_code": "603205",
-      "last_code": "603331"
+      "first_code": "603203",
+      "last_code": "603330"
     },
     {
       "file": "market_snapshot/part-017.json",
       "records": 100,
-      "first_code": "603332",
-      "last_code": "603557"
+      "first_code": "603331",
+      "last_code": "603556"
     },
     {
       "file": "market_snapshot/part-018.json",
       "records": 100,
-      "first_code": "603558",
-      "last_code": "603725"
+      "first_code": "603557",
+      "last_code": "603722"
     },
     {
       "file": "market_snapshot/part-019.json",
       "records": 100,
-      "first_code": "603726",
-      "last_code": "603920"
+      "first_code": "603725",
+      "last_code": "603919"
     },
     {
       "file": "market_snapshot/part-020.json",
       "records": 100,
-      "first_code": "603922",
-      "last_code": "605188"
+      "first_code": "603920",
+      "last_code": "605186"
     },
     {
       "file": "market_snapshot/part-021.json",
       "records": 100,
-      "first_code": "605189",
-      "last_code": "688051"
+      "first_code": "605188",
+      "last_code": "688050"
     },
     {
       "file": "market_snapshot/part-022.json",
       "records": 100,
-      "first_code": "688052",
-      "last_code": "688166"
+      "first_code": "688051",
+      "last_code": "688165"
     },
     {
       "file": "market_snapshot/part-023.json",
       "records": 100,
-      "first_code": "688167",
-      "last_code": "688281"
+      "first_code": "688166",
+      "last_code": "688280"
     },
     {
       "file": "market_snapshot/part-024.json",
       "records": 100,
-      "first_code": "688282",
-      "last_code": "688396"
+      "first_code": "688281",
+      "last_code": "688395"
     },
     {
       "file": "market_snapshot/part-025.json",
       "records": 100,
-      "first_code": "688398",
-      "last_code": "688570"
+      "first_code": "688396",
+      "last_code": "688569"
     },
     {
       "file": "market_snapshot/part-026.json",
       "records": 100,
-      "first_code": "688571",
-      "last_code": "688699"
+      "first_code": "688570",
+      "last_code": "688698"
     },
     {
       "file": "market_snapshot/part-027.json",
       "records": 100,
-      "first_code": "688700",
-      "last_code": "000037"
+      "first_code": "688699",
+      "last_code": "000036"
     },
     {
       "file": "market_snapshot/part-028.json",
       "records": 100,
-      "first_code": "000039",
-      "last_code": "000550"
+      "first_code": "000037",
+      "last_code": "000548"
     },
     {
       "file": "market_snapshot/part-029.json",
       "records": 100,
-      "first_code": "000551",
-      "last_code": "000710"
+      "first_code": "000550",
+      "last_code": "000709"
     },
     {
       "file": "market_snapshot/part-030.json",
       "records": 100,
-      "first_code": "000711",
-      "last_code": "000878"
+      "first_code": "000710",
+      "last_code": "000877"
     },
     {
       "file": "market_snapshot/part-031.json",
       "records": 100,
-      "first_code": "000880",
-      "last_code": "001217"
+      "first_code": "000878",
+      "last_code": "001216"
     },
     {
       "file": "market_snapshot/part-032.json",
       "records": 100,
-      "first_code": "001218",
-      "last_code": "001396"
+      "first_code": "001217",
+      "last_code": "001395"
     },
     {
       "file": "market_snapshot/part-033.json",
       "records": 100,
-      "first_code": "001399",
-      "last_code": "002099"
+      "first_code": "001396",
+      "last_code": "002098"
     },
     {
       "file": "market_snapshot/part-034.json",
       "records": 100,
-      "first_code": "002100",
-      "last_code": "002203"
+      "first_code": "002099",
+      "last_code": "002202"
     },
     {
       "file": "market_snapshot/part-035.json",
       "records": 100,
-      "first_code": "002204",
-      "last_code": "002310"
+      "first_code": "002203",
+      "last_code": "002309"
     },
     {
       "file": "market_snapshot/part-036.json",
       "records": 100,
-      "first_code": "002311",
-      "last_code": "002415"
+      "first_code": "002310",
+      "last_code": "002414"
     },
     {
       "file": "market_snapshot/part-037.json",
       "records": 100,
-      "first_code": "002416",
-      "last_code": "002530"
+      "first_code": "002415",
+      "last_code": "002529"
     },
     {
       "file": "market_snapshot/part-038.json",
       "records": 100,
-      "first_code": "002531",
-      "last_code": "002635"
+      "first_code": "002530",
+      "last_code": "002634"
     },
     {
       "file": "market_snapshot/part-039.json",
       "records": 100,
-      "first_code": "002636",
-      "last_code": "002746"
+      "first_code": "002635",
+      "last_code": "002745"
     },
     {
       "file": "market_snapshot/part-040.json",
       "records": 100,
-      "first_code": "002747",
-      "last_code": "002861"
+      "first_code": "002746",
+      "last_code": "002860"
     },
     {
       "file": "market_snapshot/part-041.json",
       "records": 100,
-      "first_code": "002862",
-      "last_code": "002971"
+      "first_code": "002861",
+      "last_code": "002970"
     },
     {
       "file": "market_snapshot/part-042.json",
       "records": 100,
-      "first_code": "002972",
-      "last_code": "300035"
+      "first_code": "002971",
+      "last_code": "300034"
     },
     {
       "file": "market_snapshot/part-043.json",
       "records": 100,
-      "first_code": "300036",
-      "last_code": "300145"
+      "first_code": "300035",
+      "last_code": "300144"
     },
     {
       "file": "market_snapshot/part-044.json",
       "records": 100,
-      "first_code": "300146",
-      "last_code": "300251"
+      "first_code": "300145",
+      "last_code": "300250"
     },
     {
       "file": "market_snapshot/part-045.json",
       "records": 100,
-      "first_code": "300252",
-      "last_code": "300365"
+      "first_code": "300251",
+      "last_code": "300364"
     },
     {
       "file": "market_snapshot/part-046.json",
       "records": 100,
-      "first_code": "300366",
-      "last_code": "300471"
+      "first_code": "300365",
+      "last_code": "300470"
     },
     {
       "file": "market_snapshot/part-047.json",
       "records": 100,
-      "first_code": "300472",
-      "last_code": "300576"
+      "first_code": "300471",
+      "last_code": "300575"
     },
     {
       "file": "market_snapshot/part-048.json",
       "records": 100,
-      "first_code": "300577",
-      "last_code": "300678"
+      "first_code": "300576",
+      "last_code": "300677"
     },
     {
       "file": "market_snapshot/part-049.json",
       "records": 100,
-      "first_code": "300679",
-      "last_code": "300786"
+      "first_code": "300678",
+      "last_code": "300785"
     },
     {
       "file": "market_snapshot/part-050.json",
       "records": 100,
-      "first_code": "300787",
-      "last_code": "300889"
+      "first_code": "300786",
+      "last_code": "300888"
     },
     {
       "file": "market_snapshot/part-051.json",
       "records": 100,
-      "first_code": "300890",
-      "last_code": "300995"
+      "first_code": "300889",
+      "last_code": "300994"
     },
     {
       "file": "market_snapshot/part-052.json",
       "records": 100,
-      "first_code": "300996",
-      "last_code": "301103"
+      "first_code": "300995",
+      "last_code": "301102"
     },
     {
       "file": "market_snapshot/part-053.json",
       "records": 100,
-      "first_code": "301105",
-      "last_code": "301222"
+      "first_code": "301103",
+      "last_code": "301221"
     },
     {
       "file": "market_snapshot/part-054.json",
       "records": 100,
-      "first_code": "301223",
-      "last_code": "301349"
+      "first_code": "301222",
+      "last_code": "301348"
     },
     {
       "file": "market_snapshot/part-055.json",
       "records": 100,
-      "first_code": "301353",
-      "last_code": "301557"
+      "first_code": "301349",
+      "last_code": "301556"
     },
     {
       "file": "market_snapshot/part-056.json",
-      "records": 80,
-      "first_code": "301558",
+      "records": 81,
+      "first_code": "301557",
       "last_code": "689009"
     }
   ]
