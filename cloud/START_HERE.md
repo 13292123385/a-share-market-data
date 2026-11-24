@@ -1,7 +1,7 @@
 # 腾讯云行情：GitHub中转手机读取入口
 
 本页由腾讯云采集结果自动生成，通过GitHub中转供联网读取。
-页面生成时间：2026-11-24T21:18:09.044734+08:00。这不是行情采集时间。
+页面生成时间：2026-11-24T21:21:54.188016+08:00。这不是行情采集时间。
 
 当前最新有效行情：**2026-11-24 收盘**；采集观察时间：2026-11-24T15:05:02.077564+08:00。
 运行号：20261124T150502077564+0800；完整性状态：partial。
@@ -13,7 +13,7 @@
 {
   "schema_version": 1,
   "access_path": "Tencent cloud collection -> GitHub relay -> ChatGPT",
-  "page_generated_at": "2026-11-24T21:18:09.044734+08:00",
+  "page_generated_at": "2026-11-24T21:21:54.188016+08:00",
   "latest_market": {
     "trade_date": "2026-11-24",
     "run_id": "20261124T150502077564+0800",
@@ -82,10 +82,10 @@
   },
   "themes": {
     "trade_date": "2026-11-24",
-    "run_id": "20261124T182314-2c5782fc26ec4b22b79e085c02074bc8",
+    "run_id": "20261124T212106-416bead9189f41f993ecbfeeba72d227",
     "status": "partial_research",
     "ranking_scope": "dated_partial_active_associations",
-    "observed_at": "2026-11-24T18:23:14+08:00",
+    "observed_at": "2026-11-24T21:21:06+08:00",
     "strength_definition": "0–100的样本观察活跃度，不是已独立核验的正式全市场题材强度。",
     "formal_full_market_strength_available": false,
     "missing_data": [
@@ -125,7 +125,7 @@
       },
       "C": null
     },
-    "archive_url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-24/20261124T182314-2c5782fc26ec4b22b79e085c02074bc8/"
+    "archive_url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-24/20261124T212106-416bead9189f41f993ecbfeeba72d227/"
   }
 }
 ```
@@ -138,8 +138,8 @@
 - [涨停池](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-24/20261124T150502077564%2B0800/limit_up.json)；[炸板池](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-24/20261124T150502077564%2B0800/broken.json)；[跌停池](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-24/20261124T150502077564%2B0800/limit_down.json)。
 - [首板候选](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-24/20261124T150502077564%2B0800/first_board_candidates.json)；[后续跟踪](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-24/20261124T150502077564%2B0800/followup.json)；[晋级观察](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-24/20261124T150502077564%2B0800/promotion.json)。
 - 全市场逐股表：https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/close/2026-11-24/20261124T150502077564%2B0800/market_quotes.json。该文件较大，问个股优先读取单股文件。
-- [题材评分与核心股：2026-11-24](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-24/20261124T182314-2c5782fc26ec4b22b79e085c02074bc8/latest.json)；[说明](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-24/20261124T182314-2c5782fc26ec4b22b79e085c02074bc8/latest.md)。
-- [长期跟踪与题材关联：2026-11-24](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/lifecycle/2026-11-24/20261124T182048-2f661372d5b9446aa4402bbd4a4f288e/latest.json)；[说明](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/lifecycle/2026-11-24/20261124T182048-2f661372d5b9446aa4402bbd4a4f288e/latest.md)。
+- [题材评分与核心股：2026-11-24](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-24/20261124T212106-416bead9189f41f993ecbfeeba72d227/latest.json)；[说明](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-24/20261124T212106-416bead9189f41f993ecbfeeba72d227/latest.md)。
+- [长期跟踪与题材关联：2026-11-24](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/lifecycle/2026-11-24/20261124T212001-af6abfb7419342b8b2a789b91dbf939b/latest.json)；[说明](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/lifecycle/2026-11-24/20261124T212001-af6abfb7419342b8b2a789b91dbf939b/latest.md)。
 
 ## 读取规则
 
