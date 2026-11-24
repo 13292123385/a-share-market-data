@@ -1,7 +1,7 @@
 # 沪深主板A股午盘快照
 
-交易日：2026-11-23；状态：complete；股票数：3194/3194。
-采集：2026-11-23T11:31:09.945899+08:00；完成：2026-11-23T11:31:35.158786+08:00。
+交易日：2026-11-24；状态：complete；股票数：3194/3194。
+采集：2026-11-24T11:35:55.802272+08:00；完成：2026-11-24T11:36:22.753042+08:00。
 
 [完整性清单](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/latest.json) · [全部股票CSV](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/quotes.csv) · [全部股票JSON](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/snapshot.json)
 
