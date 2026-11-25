@@ -1,7 +1,7 @@
 # 沪深主板A股午盘快照
 
-交易日：2026-11-24；状态：complete；股票数：3194/3194。
-采集：2026-11-24T11:35:55.802272+08:00；完成：2026-11-24T11:36:22.753042+08:00。
+交易日：2026-11-25；状态：partial；股票数：1494/None。
+采集：2026-11-25T11:31:03.593133+08:00；完成：2026-11-25T11:31:26.403991+08:00。
 
 [完整性清单](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/latest.json) · [全部股票CSV](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/quotes.csv) · [全部股票JSON](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/snapshot.json)
 
@@ -23,21 +23,4 @@
 - [12（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-012.csv)
 - [13（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-013.csv)
 - [14（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-014.csv)
-- [15（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-015.csv)
-- [16（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-016.csv)
-- [17（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-017.csv)
-- [18（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-018.csv)
-- [19（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-019.csv)
-- [20（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-020.csv)
-- [21（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-021.csv)
-- [22（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-022.csv)
-- [23（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-023.csv)
-- [24（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-024.csv)
-- [25（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-025.csv)
-- [26（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-026.csv)
-- [27（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-027.csv)
-- [28（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-028.csv)
-- [29（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-029.csv)
-- [30（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-030.csv)
-- [31（100只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-031.csv)
-- [32（94只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-032.csv)
+- [15（94只）](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/market/midday/chunks/part-015.csv)
