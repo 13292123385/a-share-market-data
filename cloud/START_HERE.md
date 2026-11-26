@@ -1,10 +1,10 @@
 # 腾讯云行情：GitHub中转手机读取入口
 
 本页由腾讯云采集结果自动生成，通过GitHub中转供联网读取。
-页面生成时间：2026-11-26T11:36:32.308818+08:00。这不是行情采集时间。
+页面生成时间：2026-11-26T12:06:16.433311+08:00。这不是行情采集时间。
 
-当前最新有效行情：**2026-11-26 午间**；采集观察时间：2026-11-26T11:36:32.204113+08:00。
-运行号：20261126T113501760147+0800-2690652f1b；完整性状态：partial。
+当前最新有效行情：**2026-11-26 午间**；采集观察时间：2026-11-26T12:06:16.305757+08:00。
+运行号：20261126T120501633516+0800-108fe06746；完整性状态：partial。
 以下摘要与单股链接属于这一轮归档；题材研究另有自己的日期和运行号。
 
 ## 一次读取摘要
@@ -13,12 +13,12 @@
 {
   "schema_version": 1,
   "access_path": "Tencent cloud collection -> GitHub relay -> ChatGPT",
-  "page_generated_at": "2026-11-26T11:36:32.308818+08:00",
+  "page_generated_at": "2026-11-26T12:06:16.433311+08:00",
   "latest_market": {
     "trade_date": "2026-11-26",
-    "run_id": "20261126T113501760147+0800-2690652f1b",
+    "run_id": "20261126T120501633516+0800-108fe06746",
     "session": "midday",
-    "as_of": "2026-11-26T11:36:32.204113+08:00",
+    "as_of": "2026-11-26T12:06:16.305757+08:00",
     "status": "partial",
     "collection_status": "partial",
     "source_freshness": "逐股行情时间戳未全部独立核验；时间为采集观察时点",
@@ -59,15 +59,15 @@
       "timestamp_verified_rows": 0,
       "timestamp_unavailable_rows": 5580
     },
-    "archive_url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/",
-    "stock_url_template": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/stocks/CODE.json"
+    "archive_url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/",
+    "stock_url_template": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/stocks/CODE.json"
   },
   "example_stock": {
     "code": "600000",
     "availability": "available",
     "trade_date": "2026-11-26",
     "session": "midday",
-    "run_id": "20261126T113501760147+0800-2690652f1b",
+    "run_id": "20261126T120501633516+0800-108fe06746",
     "quote": {
       "code": "600000",
       "name": "浦发银行",
@@ -81,7 +81,7 @@
       "date_verification": "provider_timestamp_unavailable",
       "midday_timestamp_verified": false
     },
-    "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/stocks/600000.json"
+    "url": "https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/stocks/600000.json"
   },
   "themes": {
     "trade_date": "2026-11-25",
@@ -135,12 +135,12 @@
 
 ## 按问题读取完整原文
 
-- [本轮完整行情摘要](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/latest.json)；[行情说明](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/latest.md)。
-- 其他股票使用六位代码替换 CODE：https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/stocks/CODE.json
-- [代码覆盖与缺失股票](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/market_coverage.json)；[指数](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/indices.json)。
-- [涨停池](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/limit_up.json)；[炸板池](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/broken.json)；[跌停池](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/limit_down.json)。
-- [首板候选](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/first_board_candidates.json)；[后续跟踪](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/followup.json)；[晋级观察](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/promotion.json)。
-- 全市场逐股表：https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T113501760147%2B0800-2690652f1b/market_quotes.json。该文件较大，问个股优先读取单股文件。
+- [本轮完整行情摘要](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/latest.json)；[行情说明](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/latest.md)。
+- 其他股票使用六位代码替换 CODE：https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/stocks/CODE.json
+- [代码覆盖与缺失股票](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/market_coverage.json)；[指数](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/indices.json)。
+- [涨停池](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/limit_up.json)；[炸板池](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/broken.json)；[跌停池](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/limit_down.json)。
+- [首板候选](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/first_board_candidates.json)；[后续跟踪](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/followup.json)；[晋级观察](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/promotion.json)。
+- 全市场逐股表：https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/midday/2026-11-26/20261126T120501633516%2B0800-108fe06746/market_quotes.json。该文件较大，问个股优先读取单股文件。
 - [题材评分与核心股：2026-11-25](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-25/20261125T212109-ece7b854d38145cdab5d3ce4f496db50/latest.json)；[说明](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/research-v2/2026-11-25/20261125T212109-ece7b854d38145cdab5d3ce4f496db50/latest.md)。
 - [长期跟踪与题材关联：2026-11-25](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/lifecycle/2026-11-25/20261125T182001-d787d43c753b4dc2a602ebf79882c330/latest.json)；[说明](https://raw.githubusercontent.com/13292123385/a-share-market-data/main/cloud/archive/lifecycle/2026-11-25/20261125T182001-d787d43c753b4dc2a602ebf79882c330/latest.md)。
 
